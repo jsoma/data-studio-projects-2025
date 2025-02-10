@@ -5,7 +5,7 @@ Quick checks to make sure our pages are looking their best!
 <table><tr><td><a href="#hazel-gandhigithubio"><img src="screenshots/hazel-gandhi.github.io/academic-retractions-analysis_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>hazel-gandhi.github.io</a></td>
 <td><a href="#lg3394githubio"><img src="screenshots/lg3394.github.io/submarinecables_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>lg3394.github.io</a></td>
 <td><a href="#somaiyahhafeezgithubio"><img src="screenshots/somaiyahhafeez.github.io/banknotes_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>somaiyahhafeez.github.io</a></td>
-<td><a href="#gracejiang0612githubio"><img src="screenshots/gracejiang0612.github.io/Olfactory-families_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>gracejiang0612.github.io</a></td>
+<td>gracejiang0612.github.io request failed</td>
 </tr><tr>
 <td><a href="#rosakettumakigithubio"><img src="screenshots/rosakettumaki.github.io/roller_coaster_story_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>rosakettumaki.github.io</a></td>
 <td><a href="#ashley-yihui-leegithubio"><img src="screenshots/ashley-yihui-lee.github.io/native-income_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ashley-yihui-lee.github.io</a></td>
@@ -114,21 +114,14 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Page templates](https://gracejiang0612.github.io/Olfactory-families/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/gracejiang0612.github.io/Olfactory-families_index.html-mobile-thumb.jpg)](screenshots/gracejiang0612.github.io/Olfactory-families_index.html-mobile-full.jpg)|[![medium](screenshots/gracejiang0612.github.io/Olfactory-families_index.html-medium-thumb.jpg)](screenshots/gracejiang0612.github.io/Olfactory-families_index.html-medium-full.jpg)|[![wide](screenshots/gracejiang0612.github.io/Olfactory-families_index.html-wide-thumb.jpg)](screenshots/gracejiang0612.github.io/Olfactory-families_index.html-wide-full.jpg)|
+|[Site not found · GitHub Pages](https://gracejiang0612.github.io/Olfactory-families/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://gracejiang0612.github.io/Olfactory-families/**
 
-* Change URL to be all in lowercase
-* Add a link to your project's GitHub repo, so people can review your code
-* Could not verify link: basic/index.html
-* Could not verify link: fancy-header/index.html
-* Could not verify link: scrolly-images/index.html
-* Could not verify link: scrolly-video/index.html
-* Could not verify link: scrolly-ai2html/index.html
-* Could not verify link: stack/index.html
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/gracejiang0612.github.io/Olfactory-families_index.html.md)
 
 
@@ -301,7 +294,7 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Story template](https://rm4063.github.io/project1/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/rm4063.github.io/project1_index.html-mobile-thumb.jpg)](screenshots/rm4063.github.io/project1_index.html-mobile-full.jpg)|[![medium](screenshots/rm4063.github.io/project1_index.html-medium-thumb.jpg)](screenshots/rm4063.github.io/project1_index.html-medium-full.jpg)|[![wide](screenshots/rm4063.github.io/project1_index.html-wide-thumb.jpg)](screenshots/rm4063.github.io/project1_index.html-wide-full.jpg)|
+|[project 1](https://rm4063.github.io/project1/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/rm4063.github.io/project1_index.html-mobile-thumb.jpg)](screenshots/rm4063.github.io/project1_index.html-mobile-full.jpg)|[![medium](screenshots/rm4063.github.io/project1_index.html-medium-thumb.jpg)](screenshots/rm4063.github.io/project1_index.html-medium-full.jpg)|[![wide](screenshots/rm4063.github.io/project1_index.html-wide-thumb.jpg)](screenshots/rm4063.github.io/project1_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
