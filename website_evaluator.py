@@ -24,7 +24,7 @@ logger = logging.getLogger(__name__)
 OUTPUT_DIR = "screenshots"
 FEEDBACK_DIR = "feedback"
 SIZES = {"mobile": 400, "medium": 900, "wide": 1300}
-TEXT_DETECTION_MODEL = detection_predictor(pretrained=True, device='cpu')
+TEXT_DETECTION_MODEL = detection_predictor(pretrained=True)
 
 class Website:
     def __init__(self, url):
