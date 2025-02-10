@@ -12,6 +12,8 @@ openai = "*"
 python-doctr = {extras = ["torch"], version = "*"}
 markdown = "*"
 beautifulsoup4 = "*"
+torch = "*"
+torchvision = "*"
 
 [dev-packages]
 
