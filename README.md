@@ -25,7 +25,7 @@ Quick checks to make sure our pages are looking their best!
 <td><a href="#shuoshuobargithubio"><img src="screenshots/shuoshuobar.github.io/Low-Food-Access-Across-Race_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>shuoshuobar.github.io</a></td>
 <td><a href="#jcw2245githubio"><img src="screenshots/jcw2245.github.io/Project-1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>jcw2245.github.io</a></td>
 <td><a href="#kristen-shengithubio"><img src="screenshots/kristen-shen.github.io/idol_show_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>kristen-shen.github.io</a></td>
-<td>ananyabchetia.github.io request failed</td>
+<td><a href="#ananyabchetiagithubio"><img src="screenshots/ananyabchetia.github.io/penguins_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ananyabchetia.github.io</a></td>
 </tr><tr>
 </tr></table>
 
@@ -105,8 +105,6 @@ Quick checks to make sure our pages are looking their best!
     * Image `https://metro.co.uk/wp-content/uploads/2022/09/SEC_126325676-d6ec.jpg?quality=90&strip=all&crop=0px%2C0px%2C2400px%2C1261px&resize=1200%2C630` missing `alt` tag
 * Image `SEC_126325676-d6ec.jpg?quality=90&strip=all&crop=0px%2C0px%2C2400px%2C1261px&resize=1200%2C630` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
 * Text in `SEC_126325676-d6ec.jpg?quality=90&strip=all&crop=0px%2C0px%2C2400px%2C1261px&resize=1200%2C630` is too small: at mobile width, text heights range from (roughly) 2.2px to 41.4 pixels. Should be 12px at absolute minimum.
-* Dead link found: https://apnews.com/article/queen-elizabeth-ii-king-charles-iii-australia-business-25f05caba7d4d71b6952e52d695f4107
-* Dead link found: https://www.womenon20s.org/campaign
 
 #### [Repository](https://github.com/somaiyahhafeez/banknotes) issues
 
@@ -162,8 +160,6 @@ Quick checks to make sure our pages are looking their best!
 
 * URL should be descriptive, not including `project` or `story`
 * Change URL to use `-` instead of spaces or underscores
-* Dead link found: https://rcdb.com/
-* Dead link found: https://www.pexels.com/
 
 #### [Repository](https://github.com/rosakettumaki/roller_coaster_story) issues
 
@@ -385,8 +381,6 @@ Quick checks to make sure our pages are looking their best!
 * Text in `cover.jpg` is too small: at mobile width, text heights range from (roughly) 5.9px to 29.7 pixels. Should be 12px at absolute minimum.
 * Could not analyze image `treemap_final-01.svg`
 * Could not analyze image `radial_final.svg`
-* Dead link found: https://www.dhhrm.org/exhibitions/the-book-smugglers/
-* Dead link found: https://apnews.com/article/salman-rushdie-satanic-verses-india-ban-4b389bd17238c50c7a1373bc38896490
 
 #### [Repository](https://github.com/anusha0712/banned_books) issues
 
@@ -402,7 +396,7 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[project1](https://suiumkanulanbek.github.io/project1/)<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/suiumkanulanbek.github.io/project1_index.html-mobile-thumb.jpg)](screenshots/suiumkanulanbek.github.io/project1_index.html-mobile-full.jpg)|[![medium](screenshots/suiumkanulanbek.github.io/project1_index.html-medium-thumb.jpg)](screenshots/suiumkanulanbek.github.io/project1_index.html-medium-full.jpg)|[![wide](screenshots/suiumkanulanbek.github.io/project1_index.html-wide-thumb.jpg)](screenshots/suiumkanulanbek.github.io/project1_index.html-wide-full.jpg)|
+|[Story template](https://suiumkanulanbek.github.io/project1/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/suiumkanulanbek.github.io/project1_index.html-mobile-thumb.jpg)](screenshots/suiumkanulanbek.github.io/project1_index.html-mobile-full.jpg)|[![medium](screenshots/suiumkanulanbek.github.io/project1_index.html-medium-thumb.jpg)](screenshots/suiumkanulanbek.github.io/project1_index.html-medium-full.jpg)|[![wide](screenshots/suiumkanulanbek.github.io/project1_index.html-wide-thumb.jpg)](screenshots/suiumkanulanbek.github.io/project1_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -411,16 +405,19 @@ Quick checks to make sure our pages are looking their best!
 
 * URL should be descriptive, not including `project` or `story`
 * Add a link to your project's GitHub repo, so people can review your code
+* Image `diseases.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `diseases.png` is too small: at mobile width, text heights range from (roughly) 3.9px to 13.4 pixels. Should be 12px at absolute minimum.
+* Image `diseases2.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `diseases2.png` is too small: at mobile width, text heights range from (roughly) 4.4px to 13.2 pixels. Should be 12px at absolute minimum.
 
 #### [Repository](https://github.com/suiumkanulanbek/project1) issues
 
 * README needs link to project page
 * [README](https://jonathansoma.com/fancy-github/readme/) looks short, not enough content
 * README not organized into sections, use [h2/h3 headers](https://www.markdownguide.org/basic-syntax/)
-* README seems to be missing required sections: data collection, skills, reflections or future work
+* README seems to be missing required sections: description, data collection, skills, reflections or future work
 * Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
 * No Jupyter notebooks found, please add your analysis.
-* No data files found. Include your raw/processed data or document where it can be accessed
 * 🤖 [Automatic feedback for copy edits](feedback/suiumkanulanbek.github.io/project1_index.html.md)
 
 
@@ -463,6 +460,13 @@ Quick checks to make sure our pages are looking their best!
 * Text in `oceania@3x.png` is too small: at mobile width, text heights range from (roughly) 5.1px to 7.7 pixels. Should be 12px at absolute minimum.
 * Image `famous_for.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
 * Text in `famous_for.png` is too small: at mobile width, text heights range from (roughly) 4.4px to 8.4 pixels. Should be 12px at absolute minimum.
+* Could not verify link: https://planetarynames.wr.usgs.gov/SearchResults?Target=14_Mercury&Feature%20Type=9_Crater,%20craters
+* Could not verify link: https://planetarynames.wr.usgs.gov/SearchResults?Target=14_Mercury&Feature%20Type=9_Crater,%20craters
+* Could not verify link: https://planetarynames.wr.usgs.gov/SearchResults?Target=14_Mercury&Feature%20Type=9_Crater,%20craters
+* Could not verify link: https://planetarynames.wr.usgs.gov/SearchResults?Target=14_Mercury&Feature%20Type=9_Crater,%20craters
+* Could not verify link: https://planetarynames.wr.usgs.gov/SearchResults?Target=14_Mercury&Feature%20Type=9_Crater,%20craters
+* Could not verify link: https://planetarynames.wr.usgs.gov/SearchResults?Target=14_Mercury&Feature%20Type=9_Crater,%20craters
+* Could not verify link: https://planetarynames.wr.usgs.gov/SearchResults?Target=14_Mercury&Feature%20Type=9_Crater,%20craters
 * Could not verify link: https://planetarynames.wr.usgs.gov/SearchResults?Target=14_Mercury&Feature%20Type=9_Crater,%20craters
 * Could not verify link: https://planetarynames.wr.usgs.gov/SearchResults?Target=14_Mercury&Feature%20Type=9_Crater,%20craters
 
@@ -609,6 +613,7 @@ Quick checks to make sure our pages are looking their best!
 
 * URL should be descriptive, not including `project` or `story`
 * Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `abortion_pic.jpg` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
@@ -653,13 +658,25 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[REQUEST FAILED](http://ananyabchetia.github.io/penguins)|request failed|request failed|request failed|
+|[Ananya's data stories](https://ananyabchetia.github.io/penguins)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ananyabchetia.github.io/penguins_index.html-mobile-thumb.jpg)](screenshots/ananyabchetia.github.io/penguins_index.html-mobile-full.jpg)|[![medium](screenshots/ananyabchetia.github.io/penguins_index.html-medium-thumb.jpg)](screenshots/ananyabchetia.github.io/penguins_index.html-medium-full.jpg)|[![wide](screenshots/ananyabchetia.github.io/penguins_index.html-wide-thumb.jpg)](screenshots/ananyabchetia.github.io/penguins_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**http://ananyabchetia.github.io/penguins**
+**https://ananyabchetia.github.io/penguins**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `gentoopenguinphoto.jpg` missing `alt` tag
+* Add a link to your project's GitHub repo, so people can review your code
+* Could not analyze image `gentoopenguinphoto.jpg`
+
+#### [Repository](https://github.com/ananyabchetia/penguins) issues
+
+* README needs link to project page
+* README seems to be missing required sections: reflections or future work
+* Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
+* Notebook `penguin.ipynb` should start with markdown explanation
+* Notebook `penguin.ipynb` needs more markdown documentation
+* No data files found. Include your raw/processed data or document where it can be accessed
 * 🤖 [Automatic feedback for copy edits](feedback/ananyabchetia.github.io/penguins_index.html.md)
 
