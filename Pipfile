@@ -10,6 +10,7 @@ pillow = "*"
 asyncio-pool = "*"
 openai = "*"
 python-doctr = {extras = ["torch"], version = "*"}
+markdown = "*"
 
 [dev-packages]
 
