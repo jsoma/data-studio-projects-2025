@@ -24,6 +24,7 @@ logger = logging.getLogger(__name__)
 OUTPUT_DIR = "screenshots"
 FEEDBACK_DIR = "feedback"
 SIZES = {"mobile": 400, "medium": 900, "wide": 1300}
+TEXT_DETECTION_MODEL = detection_predictor(pretrained=True, device='cpu')
 
 class Website:
     def __init__(self, url):
@@ -136,7 +137,7 @@ class Website:
 
         # get page html
         html = await self.page.content()
-        feedback = ""#get_ap_feedback(html)
+        feedback = get_ap_feedback(html)
         text = f"# Feedback for [{self.page_title}]({self.url})\n\n[Request updated copy edits](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)\n\n## AP Style Feedback\n\n{feedback}"
         feedback_file.write_text(text)
 
@@ -367,8 +368,7 @@ class Website:
 
                     # Process with docTR
                     doc = DocumentFile.from_images(tmp_path)
-                    model = detection_predictor(pretrained=True, device='cpu')
-                    result = model(doc)
+                    result = TEXT_DETECTION_MODEL(doc)
                     
                     words = [word for word in result[0]['words'] if word[-1] > 0.7]
                     if len(words) > 4:
