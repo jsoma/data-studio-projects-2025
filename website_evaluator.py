@@ -388,6 +388,7 @@ class Website:
                     os.unlink(tmp_path)
                     
             except Exception as e:
+                print(e)
                 self.issues.append(f"* Could not analyze image `{filename}`")
 
 
