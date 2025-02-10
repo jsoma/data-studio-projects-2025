@@ -50,8 +50,10 @@ Quick checks to make sure our pages are looking their best!
 * Text in `final_2.png` is too small: at mobile width, text heights range from (roughly) 3.7px to 7.0 pixels. Should be 12px at absolute minimum.
 * Image `final_3.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
 * Text in `final_3.png` is too small: at mobile width, text heights range from (roughly) 4.0px to 7.3 pixels. Should be 12px at absolute minimum.
+* Dead link found: https://hazel-gandhi.github.io/my-website/
+* Dead link found: https://hazel-gandhi.github.io/my-website/
 
-## [Repository](https://github.com/hazel-gandhi/academic-retractions-analysis) issues
+#### [Repository](https://github.com/hazel-gandhi/academic-retractions-analysis) issues
 
 * README needs link to project page
 * README seems to be missing required sections: reflections or future work
@@ -76,7 +78,7 @@ Quick checks to make sure our pages are looking their best!
 
 * Add a link to your project's GitHub repo, so people can review your code
 
-## [Repository](https://github.com/lg3394/submarinecables) issues
+#### [Repository](https://github.com/lg3394/submarinecables) issues
 
 * README needs link to project page
 * README not organized into sections, use [h2/h3 headers](https://www.markdownguide.org/basic-syntax/)
@@ -103,8 +105,10 @@ Quick checks to make sure our pages are looking their best!
     * Image `https://metro.co.uk/wp-content/uploads/2022/09/SEC_126325676-d6ec.jpg?quality=90&strip=all&crop=0px%2C0px%2C2400px%2C1261px&resize=1200%2C630` missing `alt` tag
 * Image `SEC_126325676-d6ec.jpg?quality=90&strip=all&crop=0px%2C0px%2C2400px%2C1261px&resize=1200%2C630` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
 * Text in `SEC_126325676-d6ec.jpg?quality=90&strip=all&crop=0px%2C0px%2C2400px%2C1261px&resize=1200%2C630` is too small: at mobile width, text heights range from (roughly) 2.2px to 41.4 pixels. Should be 12px at absolute minimum.
+* Dead link found: https://apnews.com/article/queen-elizabeth-ii-king-charles-iii-australia-business-25f05caba7d4d71b6952e52d695f4107
+* Dead link found: https://www.womenon20s.org/campaign
 
-## [Repository](https://github.com/somaiyahhafeez/banknotes) issues
+#### [Repository](https://github.com/somaiyahhafeez/banknotes) issues
 
 * README needs link to project page
 * README not organized into sections, use [h2/h3 headers](https://www.markdownguide.org/basic-syntax/)
@@ -134,6 +138,12 @@ Quick checks to make sure our pages are looking their best!
 
 * Change URL to be all in lowercase
 * Add a link to your project's GitHub repo, so people can review your code
+* Could not verify link: basic/index.html
+* Could not verify link: fancy-header/index.html
+* Could not verify link: scrolly-images/index.html
+* Could not verify link: scrolly-video/index.html
+* Could not verify link: scrolly-ai2html/index.html
+* Could not verify link: stack/index.html
 * 🤖 [Automatic feedback for copy edits](feedback/gracejiang0612.github.io/Olfactory-families_index.html.md)
 
 
@@ -152,8 +162,10 @@ Quick checks to make sure our pages are looking their best!
 
 * URL should be descriptive, not including `project` or `story`
 * Change URL to use `-` instead of spaces or underscores
+* Dead link found: https://rcdb.com/
+* Dead link found: https://www.pexels.com/
 
-## [Repository](https://github.com/rosakettumaki/roller_coaster_story) issues
+#### [Repository](https://github.com/rosakettumaki/roller_coaster_story) issues
 
 * README not organized into sections, use [h2/h3 headers](https://www.markdownguide.org/basic-syntax/)
 * Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
@@ -182,7 +194,7 @@ Quick checks to make sure our pages are looking their best!
 * Image `ai2html-test-_1.jpg` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
 * Text in `ai2html-test-_1.jpg` is too small: at mobile width, text heights range from (roughly) 2.6px to 9.2 pixels. Should be 12px at absolute minimum.
 
-## [Repository](https://github.com/ashley-yihui-lee/native-income) issues
+#### [Repository](https://github.com/ashley-yihui-lee/native-income) issues
 
 * Failed to download repository: Failed to download repository (status code: 404)
 * 🤖 [Automatic feedback for copy edits](feedback/ashley-yihui-lee.github.io/native-income_index.html.md)
@@ -211,8 +223,9 @@ Quick checks to make sure our pages are looking their best!
 * Text in `dominant.png` is too small: at mobile width, text heights range from (roughly) 2.9px to 8.1 pixels. Should be 12px at absolute minimum.
 * Image `niche.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
 * Text in `niche.png` is too small: at mobile width, text heights range from (roughly) 4.4px to 8.1 pixels. Should be 12px at absolute minimum.
+* Dead link found: https://github.com/yiren54610/olympic_us.git
 
-## [Repository](https://github.com/yiren54610/MVP) issues
+#### [Repository](https://github.com/yiren54610/MVP) issues
 
 * README needs link to project page
 * [README](https://jonathansoma.com/fancy-github/readme/) looks short, not enough content
@@ -244,8 +257,9 @@ Quick checks to make sure our pages are looking their best!
 * All HTML files should be named `index.html`. If this is a personal project, move `my_site/death_penalty.html` into a folder (or repo) called `death_penalty`, then rename the file `index.html`. That way the project can be found at **/death_penalty** instead of **/death_penalty.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
 * Change URL to use `-` instead of spaces or underscores
 * Add a link to your project's GitHub repo, so people can review your code
+* Could not verify link: index.html
 
-## [Repository](https://github.com/amethystmart/my_site) issues
+#### [Repository](https://github.com/amethystmart/my_site) issues
 
 * README needs link to project page
 * [README](https://jonathansoma.com/fancy-github/readme/) looks short, not enough content
@@ -271,8 +285,10 @@ Quick checks to make sure our pages are looking their best!
 **https://annikamcginnis.github.io/portfolio/wildfires-fema/**
 
 * URL should be first level, `/volcanoes` not `/stories/volcanoes`
+* Could not verify link: https://www.washingtonpost.com/national-security/2025/02/09/fema-shutdown-noem-trump/
+* Could not verify link: https://www.washingtonpost.com/climate-environment/2025/02/07/musk-trump-fema-doge/
 
-## [Repository](https://github.com/annikamcginnis/portfolio) issues
+#### [Repository](https://github.com/annikamcginnis/portfolio) issues
 
 * README needs link to project page
 * [README](https://jonathansoma.com/fancy-github/readme/) looks short, not enough content
@@ -311,7 +327,7 @@ Quick checks to make sure our pages are looking their best!
 * Image `durslot.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
 * Text in `durslot.png` is too small: at mobile width, text heights range from (roughly) 2.6px to 12.1 pixels. Should be 12px at absolute minimum.
 
-## [Repository](https://github.com/rm4063/project1) issues
+#### [Repository](https://github.com/rm4063/project1) issues
 
 * README needs link to project page
 * README not organized into sections, use [h2/h3 headers](https://www.markdownguide.org/basic-syntax/)
@@ -334,8 +350,14 @@ Quick checks to make sure our pages are looking their best!
 **https://cj-robinson.github.io/evictions-story/**
 
 * URL should be descriptive, not including `project` or `story`
+* Could not verify link: “https://www.nyc.gov/site/hpd/services-and-information/good-cause-eviction.page”
+* Could not verify link: ”https://legalaidnyc.org/get-help/housing-problems/what-you-need-to-know-about-new-yorks-good-cause-eviction-law/”
+* Could not verify link: ”https://citylimits.org/2024/09/11/good-cause-evictions-legal-litmus-test-begins/”
+* Could not verify link: ”https://qns.com/2024/12/eviction-queens-nycha-pact/”
+* Could not verify link: ”https://abc7ny.com/post/new-york-squatter-eviction-laws-years-long-backlog-has-created-housing-court-hell-yorkers-verge-bankruptcy/15538259/”
+* Could not verify link: ”https://gothamist.com/news/lefrak-city-has-the-most-evictions-in-nyc-the-landlord-is-suing-to-speed-up-the-process”
 
-## [Repository](https://github.com/cj-robinson/evictions-story) issues
+#### [Repository](https://github.com/cj-robinson/evictions-story) issues
 
 * Failed to download repository: Failed to download repository (status code: 404)
 * 🤖 [Automatic feedback for copy edits](feedback/cj-robinson.github.io/evictions-story_index.html.md)
@@ -363,8 +385,10 @@ Quick checks to make sure our pages are looking their best!
 * Text in `cover.jpg` is too small: at mobile width, text heights range from (roughly) 5.9px to 29.7 pixels. Should be 12px at absolute minimum.
 * Could not analyze image `treemap_final-01.svg`
 * Could not analyze image `radial_final.svg`
+* Dead link found: https://www.dhhrm.org/exhibitions/the-book-smugglers/
+* Dead link found: https://apnews.com/article/salman-rushdie-satanic-verses-india-ban-4b389bd17238c50c7a1373bc38896490
 
-## [Repository](https://github.com/anusha0712/banned_books) issues
+#### [Repository](https://github.com/anusha0712/banned_books) issues
 
 * Dead link found: https://pen.org/book-banspen-america-index-of-school-book-bans-2023-2024/
 * Dead link found: https://docs.google.com/spreadsheets/d/1hTs_PB7KuTMBtNMESFEGuK-0abzhNxVv4tgpI5-iKe8/editgid=1171606318#gid=1171606318
@@ -388,7 +412,7 @@ Quick checks to make sure our pages are looking their best!
 * URL should be descriptive, not including `project` or `story`
 * Add a link to your project's GitHub repo, so people can review your code
 
-## [Repository](https://github.com/suiumkanulanbek/project1) issues
+#### [Repository](https://github.com/suiumkanulanbek/project1) issues
 
 * README needs link to project page
 * [README](https://jonathansoma.com/fancy-github/readme/) looks short, not enough content
@@ -439,8 +463,10 @@ Quick checks to make sure our pages are looking their best!
 * Text in `oceania@3x.png` is too small: at mobile width, text heights range from (roughly) 5.1px to 7.7 pixels. Should be 12px at absolute minimum.
 * Image `famous_for.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
 * Text in `famous_for.png` is too small: at mobile width, text heights range from (roughly) 4.4px to 8.4 pixels. Should be 12px at absolute minimum.
+* Could not verify link: https://planetarynames.wr.usgs.gov/SearchResults?Target=14_Mercury&Feature%20Type=9_Crater,%20craters
+* Could not verify link: https://planetarynames.wr.usgs.gov/SearchResults?Target=14_Mercury&Feature%20Type=9_Crater,%20craters
 
-## [Repository](https://github.com/chilinhhovo/Mercury) issues
+#### [Repository](https://github.com/chilinhhovo/Mercury) issues
 
 * README seems to be missing required sections: reflections or future work
 * Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
@@ -480,7 +506,7 @@ Quick checks to make sure our pages are looking their best!
 * Image `full.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
 * Text in `full.png` is too small: at mobile width, text heights range from (roughly) 3.7px to 13.2 pixels. Should be 12px at absolute minimum.
 
-## [Repository](https://github.com/tiff-xwang/tinned-fish) issues
+#### [Repository](https://github.com/tiff-xwang/tinned-fish) issues
 
 * Failed to download repository: Failed to download repository (status code: 404)
 * 🤖 [Automatic feedback for copy edits](feedback/tiff-xwang.github.io/tinned-fish_index.html.md)
@@ -511,7 +537,7 @@ Quick checks to make sure our pages are looking their best!
 * Image `chart3.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
 * Text in `chart3.png` is too small: at mobile width, text heights range from (roughly) 2.9px to 11.0 pixels. Should be 12px at absolute minimum.
 
-## [Repository](https://github.com/yatingw24/X-men) issues
+#### [Repository](https://github.com/yatingw24/X-men) issues
 
 * Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
 * Should not include these file(s), please remove:
@@ -557,7 +583,7 @@ Quick checks to make sure our pages are looking their best!
 * Image `other-multiple-race-people.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
 * Text in `other-multiple-race-people.png` is too small: at mobile width, text heights range from (roughly) 3.3px to 7.0 pixels. Should be 12px at absolute minimum.
 
-## [Repository](https://github.com/shuoshuobar/Low-Food-Access-Across-Race) issues
+#### [Repository](https://github.com/shuoshuobar/Low-Food-Access-Across-Race) issues
 
 * README needs link to project page
 * Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
@@ -583,7 +609,6 @@ Quick checks to make sure our pages are looking their best!
 
 * URL should be descriptive, not including `project` or `story`
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `abortion_pic.jpg` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
@@ -616,7 +641,7 @@ Quick checks to make sure our pages are looking their best!
 * Image `logos.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
 * Text in `logos.png` is too small: at mobile width, text heights range from (roughly) 2.9px to 39.2 pixels. Should be 12px at absolute minimum.
 
-## [Repository](https://github.com/kristen-shen/idol_show) issues
+#### [Repository](https://github.com/kristen-shen/idol_show) issues
 
 * Failed to download repository: Failed to download repository (status code: 404)
 * 🤖 [Automatic feedback for copy edits](feedback/kristen-shen.github.io/idol_show_index.html.md)
