@@ -41,9 +41,12 @@ Quick checks to make sure our pages are looking their best!
 **https://hazel-gandhi.github.io/academic-retractions-analysis/**
 
 * Could not analyze image `hero-image.jpg`
-* Could not analyze image `final_1.png`
-* Could not analyze image `final_2.png`
-* Could not analyze image `final_3.png`
+* Image `final_1.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `final_1.png` is too small: at mobile width, text heights range from (roughly) 4.0px to 7.3 pixels. Should be 12px at absolute minimum.
+* Image `final_2.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `final_2.png` is too small: at mobile width, text heights range from (roughly) 3.7px to 7.0 pixels. Should be 12px at absolute minimum.
+* Image `final_3.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `final_3.png` is too small: at mobile width, text heights range from (roughly) 4.0px to 7.3 pixels. Should be 12px at absolute minimum.
 
 ## Repository issues
 
@@ -95,7 +98,8 @@ Quick checks to make sure our pages are looking their best!
 
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `https://metro.co.uk/wp-content/uploads/2022/09/SEC_126325676-d6ec.jpg?quality=90&strip=all&crop=0px%2C0px%2C2400px%2C1261px&resize=1200%2C630` missing `alt` tag
-* Could not analyze image `SEC_126325676-d6ec.jpg?quality=90&strip=all&crop=0px%2C0px%2C2400px%2C1261px&resize=1200%2C630`
+* Image `SEC_126325676-d6ec.jpg?quality=90&strip=all&crop=0px%2C0px%2C2400px%2C1261px&resize=1200%2C630` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `SEC_126325676-d6ec.jpg?quality=90&strip=all&crop=0px%2C0px%2C2400px%2C1261px&resize=1200%2C630` is too small: at mobile width, text heights range from (roughly) 2.2px to 41.4 pixels. Should be 12px at absolute minimum.
 
 ## Repository issues
 
@@ -167,9 +171,12 @@ Quick checks to make sure our pages are looking their best!
 **https://ashley-yihui-lee.github.io/native-income/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Could not analyze image `ai2html-bubbles-_1.jpg`
-* Could not analyze image `ai2html-racial-_1.jpg`
-* Could not analyze image `ai2html-test-_1.jpg`
+* Image `ai2html-bubbles-_1.jpg` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `ai2html-bubbles-_1.jpg` is too small: at mobile width, text heights range from (roughly) 2.6px to 30.4 pixels. Should be 12px at absolute minimum.
+* Image `ai2html-racial-_1.jpg` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `ai2html-racial-_1.jpg` is too small: at mobile width, text heights range from (roughly) 5.9px to 9.2 pixels. Should be 12px at absolute minimum.
+* Image `ai2html-test-_1.jpg` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `ai2html-test-_1.jpg` is too small: at mobile width, text heights range from (roughly) 2.6px to 9.2 pixels. Should be 12px at absolute minimum.
 
 ## Repository issues
 
@@ -192,10 +199,14 @@ Quick checks to make sure our pages are looking their best!
 
 * All HTML files should be named `index.html`. If this is a personal project, move `MVP/olympics.html` into a folder (or repo) called `olympics`, then rename the file `index.html`. That way the project can be found at **/olympics** instead of **/olympics.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
 * Change URL to be all in lowercase
-* Could not analyze image `Historical_trend.png`
-* Could not analyze image `team.png`
-* Could not analyze image `dominant.png`
-* Could not analyze image `niche.png`
+* Image `Historical_trend.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `Historical_trend.png` is too small: at mobile width, text heights range from (roughly) 6.2px to 9.5 pixels. Should be 12px at absolute minimum.
+* Image `team.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `team.png` is too small: at mobile width, text heights range from (roughly) 4.4px to 5.9 pixels. Should be 12px at absolute minimum.
+* Image `dominant.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `dominant.png` is too small: at mobile width, text heights range from (roughly) 2.9px to 8.1 pixels. Should be 12px at absolute minimum.
+* Image `niche.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `niche.png` is too small: at mobile width, text heights range from (roughly) 4.4px to 8.1 pixels. Should be 12px at absolute minimum.
 
 ## Repository issues
 
@@ -287,9 +298,12 @@ Quick checks to make sure our pages are looking their best!
     * Image `yearfreq.png` missing `alt` tag
     * Image `durslot.png` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
-* Could not analyze image `Mpdur.png`
-* Could not analyze image `yearfreq.png`
-* Could not analyze image `durslot.png`
+* Image `Mpdur.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `Mpdur.png` is too small: at mobile width, text heights range from (roughly) 3.3px to 14.0 pixels. Should be 12px at absolute minimum.
+* Image `yearfreq.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `yearfreq.png` is too small: at mobile width, text heights range from (roughly) 2.6px to 16.8 pixels. Should be 12px at absolute minimum.
+* Image `durslot.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `durslot.png` is too small: at mobile width, text heights range from (roughly) 2.6px to 12.1 pixels. Should be 12px at absolute minimum.
 
 ## Repository issues
 
@@ -339,7 +353,7 @@ Quick checks to make sure our pages are looking their best!
     * Image `data_viz/treemap_final-01.svg` missing `alt` tag
     * Image `data_viz/radial_final.svg` missing `alt` tag
 * Image `cover.jpg` is too big at 6000x3376, should be no larger than 2500 in either dimension
-* Could not analyze image `cover.jpg`
+* Text in `cover.jpg` is too small: at mobile width, text heights range from (roughly) 5.9px to 29.7 pixels. Should be 12px at absolute minimum.
 * Could not analyze image `treemap_final-01.svg`
 * Could not analyze image `radial_final.svg`
 
@@ -394,21 +408,29 @@ Quick checks to make sure our pages are looking their best!
 * Change URL to be all in lowercase
 * Could not analyze image `hero_image.png`
 * Image `contient@3x.png` is too big at 5034x4389, should be no larger than 2500 in either dimension
-* Could not analyze image `contient@3x.png`
-* Could not analyze image `bycountry.png`
+* Image `contient@3x.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `contient@3x.png` is too small: at mobile width, text heights range from (roughly) 5.1px to 9.9 pixels. Should be 12px at absolute minimum.
+* Image `bycountry.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `bycountry.png` is too small: at mobile width, text heights range from (roughly) 4.4px to 12.5 pixels. Should be 12px at absolute minimum.
 * Image `europe@3x.png` is too big at 4140x3525, should be no larger than 2500 in either dimension
-* Could not analyze image `europe@3x.png`
+* Image `europe@3x.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `europe@3x.png` is too small: at mobile width, text heights range from (roughly) 5.1px to 11.7 pixels. Should be 12px at absolute minimum.
 * Image `asia@3x.png` is too big at 4281x3471, should be no larger than 2500 in either dimension
-* Could not analyze image `asia@3x.png`
+* Image `asia@3x.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `asia@3x.png` is too small: at mobile width, text heights range from (roughly) 5.1px to 11.4 pixels. Should be 12px at absolute minimum.
 * Image `Africa@3x.png` is too big at 4755x3071, should be no larger than 2500 in either dimension
-* Could not analyze image `Africa@3x.png`
+* Image `Africa@3x.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `Africa@3x.png` is too small: at mobile width, text heights range from (roughly) 6.2px to 13.5 pixels. Should be 12px at absolute minimum.
 * Image `n.america@3x.png` is too big at 4251x3624, should be no larger than 2500 in either dimension
-* Could not analyze image `n.america@3x.png`
+* Image `n.america@3x.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `n.america@3x.png` is too small: at mobile width, text heights range from (roughly) 5.1px to 10.3 pixels. Should be 12px at absolute minimum.
 * Image `s.america@3x.png` is too big at 4232x3582, should be no larger than 2500 in either dimension
-* Could not analyze image `s.america@3x.png`
+* Image `s.america@3x.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `s.america@3x.png` is too small: at mobile width, text heights range from (roughly) 7.7px to 11.4 pixels. Should be 12px at absolute minimum.
 * Image `oceania@3x.png` is too big at 4232x2730, should be no larger than 2500 in either dimension
-* Could not analyze image `oceania@3x.png`
-* Could not analyze image `famous_for.png`
+* Text in `oceania@3x.png` is too small: at mobile width, text heights range from (roughly) 5.1px to 7.7 pixels. Should be 12px at absolute minimum.
+* Image `famous_for.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `famous_for.png` is too small: at mobile width, text heights range from (roughly) 4.4px to 8.4 pixels. Should be 12px at absolute minimum.
 
 ## Repository issues
 
@@ -468,10 +490,13 @@ Quick checks to make sure our pages are looking their best!
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `scrolly-images/simage1.jpg` missing `alt` tag
 * Image `simage1.jpg` is too big at 5472x3648, should be no larger than 2500 in either dimension
-* Could not analyze image `simage1.jpg`
-* Could not analyze image `chart1.png`
-* Could not analyze image `chart2.png`
-* Could not analyze image `chart3.png`
+* Text in `simage1.jpg` is too small: at mobile width, text heights range from (roughly) 2.2px to 29.3 pixels. Should be 12px at absolute minimum.
+* Image `chart1.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `chart1.png` is too small: at mobile width, text heights range from (roughly) 3.7px to 12.5 pixels. Should be 12px at absolute minimum.
+* Image `chart2.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `chart2.png` is too small: at mobile width, text heights range from (roughly) 2.2px to 10.6 pixels. Should be 12px at absolute minimum.
+* Image `chart3.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `chart3.png` is too small: at mobile width, text heights range from (roughly) 2.9px to 11.0 pixels. Should be 12px at absolute minimum.
 
 ## Repository issues
 
@@ -504,13 +529,20 @@ Quick checks to make sure our pages are looking their best!
     * Image `asians.png` missing `alt` tag
     * Image `hispanics-latinos.png` missing `alt` tag
     * *and 2 more*
-* Could not analyze image `black-african-americans.png`
-* Could not analyze image `american-indians-alaska-natives.png`
-* Could not analyze image `native-hawaiians-other-pacific-islanders.png`
-* Could not analyze image `asians.png`
-* Could not analyze image `hispanics-latinos.png`
-* Could not analyze image `white-people.png`
-* Could not analyze image `other-multiple-race-people.png`
+* Image `black-african-americans.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `black-african-americans.png` is too small: at mobile width, text heights range from (roughly) 3.7px to 7.7 pixels. Should be 12px at absolute minimum.
+* Image `american-indians-alaska-natives.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `american-indians-alaska-natives.png` is too small: at mobile width, text heights range from (roughly) 3.7px to 7.7 pixels. Should be 12px at absolute minimum.
+* Image `native-hawaiians-other-pacific-islanders.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `native-hawaiians-other-pacific-islanders.png` is too small: at mobile width, text heights range from (roughly) 3.3px to 7.7 pixels. Should be 12px at absolute minimum.
+* Image `asians.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `asians.png` is too small: at mobile width, text heights range from (roughly) 3.3px to 7.0 pixels. Should be 12px at absolute minimum.
+* Image `hispanics-latinos.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `hispanics-latinos.png` is too small: at mobile width, text heights range from (roughly) 3.3px to 7.0 pixels. Should be 12px at absolute minimum.
+* Image `white-people.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `white-people.png` is too small: at mobile width, text heights range from (roughly) 3.3px to 7.0 pixels. Should be 12px at absolute minimum.
+* Image `other-multiple-race-people.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `other-multiple-race-people.png` is too small: at mobile width, text heights range from (roughly) 3.3px to 7.0 pixels. Should be 12px at absolute minimum.
 
 ## Repository issues
 
@@ -544,8 +576,11 @@ Quick checks to make sure our pages are looking their best!
 * Datawrapper chart missing description, fill out *Alternative description for screen readers* section on Annotate tab, [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Datawrapper chart missing description, fill out *Alternative description for screen readers* section on Annotate tab, [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
 * Image `abortion_pic.jpg` is too big at 4024x6048, should be no larger than 2500 in either dimension
-* Could not analyze image `abortion_pic.jpg`
-* Could not analyze image `full.png`
-* Could not analyze image `full.png`
+* Image `abortion_pic.jpg` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `abortion_pic.jpg` is too small: at mobile width, text heights range from (roughly) 8.8px to 30.8 pixels. Should be 12px at absolute minimum.
+* Image `full.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `full.png` is too small: at mobile width, text heights range from (roughly) 4.4px to 12.1 pixels. Should be 12px at absolute minimum.
+* Image `full.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `full.png` is too small: at mobile width, text heights range from (roughly) 4.4px to 11.4 pixels. Should be 12px at absolute minimum.
 * 🤖 [Automatic feedback for copy edits](feedback/jcw2245.github.io/Project-1_index.html.md)
 
