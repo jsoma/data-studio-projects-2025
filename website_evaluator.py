@@ -254,6 +254,9 @@ class Website:
         if not await self.page.title():
             self.issues.append("* Needs a title, add a `<title>` tag to the `<head>`")
 
+        if str(self.urlpath).strip('/').count('/') > 1:
+            self.issues.append("* URL should be first level, `/volcanoes` not `/stories/volcanoes`")
+
         if 'project' in str(self.urlpath).lower() or 'story' in str(self.urlpath).lower():
             self.issues.append("* URL should be descriptive, not including `project` or `story`")
 
