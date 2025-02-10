@@ -99,12 +99,15 @@ class Website:
 
     def build_desc(self):
         page_link = f"[{self.page_title}]({self.url})"
-        metas = '<br>'.join([f":x: {key}" for key, value in self.meta.items() if value is None])
+        try:
+            metas = '<br>'.join([f":x: {key}" for key, value in self.meta.items() if value is None])
 
-        if metas:
-            desc = f"|{page_link}<br>{metas}<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|"
-        else:
-            desc = f"|{page_link}|"
+            if metas:
+                desc = f"|{page_link}<br>{metas}<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|"
+            else:
+                desc = f"|{page_link}|"
+        except:
+                desc = f"|{page_link}|"
         return desc
 
 
