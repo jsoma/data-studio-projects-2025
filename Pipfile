@@ -11,6 +11,7 @@ asyncio-pool = "*"
 openai = "*"
 python-doctr = {extras = ["torch"], version = "*"}
 markdown = "*"
+beautifulsoup4 = "*"
 
 [dev-packages]
 
