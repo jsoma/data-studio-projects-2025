@@ -396,7 +396,7 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[project1](https://suiumkanulanbek.github.io/project1/)<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/suiumkanulanbek.github.io/project1_index.html-mobile-thumb.jpg)](screenshots/suiumkanulanbek.github.io/project1_index.html-mobile-full.jpg)|[![medium](screenshots/suiumkanulanbek.github.io/project1_index.html-medium-thumb.jpg)](screenshots/suiumkanulanbek.github.io/project1_index.html-medium-full.jpg)|[![wide](screenshots/suiumkanulanbek.github.io/project1_index.html-wide-thumb.jpg)](screenshots/suiumkanulanbek.github.io/project1_index.html-wide-full.jpg)|
+|[Story template](https://suiumkanulanbek.github.io/project1/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/suiumkanulanbek.github.io/project1_index.html-mobile-thumb.jpg)](screenshots/suiumkanulanbek.github.io/project1_index.html-mobile-full.jpg)|[![medium](screenshots/suiumkanulanbek.github.io/project1_index.html-medium-thumb.jpg)](screenshots/suiumkanulanbek.github.io/project1_index.html-medium-full.jpg)|[![wide](screenshots/suiumkanulanbek.github.io/project1_index.html-wide-thumb.jpg)](screenshots/suiumkanulanbek.github.io/project1_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -405,6 +405,10 @@ Quick checks to make sure our pages are looking their best!
 
 * URL should be descriptive, not including `project` or `story`
 * Add a link to your project's GitHub repo, so people can review your code
+* Image `diseases.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `diseases.png` is too small: at mobile width, text heights range from (roughly) 3.9px to 13.4 pixels. Should be 12px at absolute minimum.
+* Image `diseases2.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+* Text in `diseases2.png` is too small: at mobile width, text heights range from (roughly) 4.4px to 13.2 pixels. Should be 12px at absolute minimum.
 
 #### [Repository](https://github.com/suiumkanulanbek/project1) issues
 
@@ -414,7 +418,6 @@ Quick checks to make sure our pages are looking their best!
 * README seems to be missing required sections: data collection, skills, reflections or future work
 * Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
 * No Jupyter notebooks found, please add your analysis.
-* No data files found. Include your raw/processed data or document where it can be accessed
 * 🤖 [Automatic feedback for copy edits](feedback/suiumkanulanbek.github.io/project1_index.html.md)
 
 
@@ -457,7 +460,13 @@ Quick checks to make sure our pages are looking their best!
 * Text in `oceania@3x.png` is too small: at mobile width, text heights range from (roughly) 5.1px to 7.7 pixels. Should be 12px at absolute minimum.
 * Image `famous_for.png` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
 * Text in `famous_for.png` is too small: at mobile width, text heights range from (roughly) 4.4px to 8.4 pixels. Should be 12px at absolute minimum.
-* Could not verify link: https://svs.gsfc.nasa.gov/14110/
+* Could not verify link: https://planetarynames.wr.usgs.gov/SearchResults?Target=14_Mercury&Feature%20Type=9_Crater,%20craters
+* Could not verify link: https://planetarynames.wr.usgs.gov/SearchResults?Target=14_Mercury&Feature%20Type=9_Crater,%20craters
+* Could not verify link: https://planetarynames.wr.usgs.gov/SearchResults?Target=14_Mercury&Feature%20Type=9_Crater,%20craters
+* Could not verify link: https://planetarynames.wr.usgs.gov/SearchResults?Target=14_Mercury&Feature%20Type=9_Crater,%20craters
+* Could not verify link: https://planetarynames.wr.usgs.gov/SearchResults?Target=14_Mercury&Feature%20Type=9_Crater,%20craters
+* Could not verify link: https://planetarynames.wr.usgs.gov/SearchResults?Target=14_Mercury&Feature%20Type=9_Crater,%20craters
+* Could not verify link: https://planetarynames.wr.usgs.gov/SearchResults?Target=14_Mercury&Feature%20Type=9_Crater,%20craters
 * Could not verify link: https://planetarynames.wr.usgs.gov/SearchResults?Target=14_Mercury&Feature%20Type=9_Crater,%20craters
 * Could not verify link: https://planetarynames.wr.usgs.gov/SearchResults?Target=14_Mercury&Feature%20Type=9_Crater,%20craters
 
@@ -649,7 +658,7 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[REQUEST FAILED](http://ananyabchetia.github.io/penguins)|request failed|request failed|request failed|
+|[Page not found · GitHub Pages](http://ananyabchetia.github.io/penguins)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
