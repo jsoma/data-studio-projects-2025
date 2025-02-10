@@ -16,7 +16,6 @@ from urllib.parse import urljoin
 import tempfile
 import os
 import requests
-from bs4 import BeautifulSoup
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
@@ -168,6 +167,24 @@ class Website:
             box = (0, 0, img.size[0], img.size[0])
             img.crop(box).resize((400, 400)).save(thumb_path)
     
+    async def check_links(self):
+        soup = BeautifulSoup(await self.page.content(), 'html.parser')
+        
+        # Get all links
+        links = [a.get('href') for a in soup.find_all('a')]
+        
+        # Check each link
+        for link in links:
+            if not link or link.startswith(('/', '#', 'mailto:')):
+                continue
+
+            try:
+                response = requests.head(link, timeout=5, allow_redirects=True)
+                if response.status_code >= 400:
+                    self.issues.append(f"* Dead link found: {link}")
+            except:
+                self.issues.append(f"* Could not verify link: {link}")
+
     async def run_checks(self):
         logger.info(f"{self.url}: Running automatic checks")
         self.issues = []
@@ -316,6 +333,7 @@ class Website:
                 self.issues.append(f"    * *and {len(tiny_text) - 7} more*")
 
         await self.check_images()
+        await self.check_links()
 
         self.repo.run_checks()
         if len(self.repo.issues) > 0:
