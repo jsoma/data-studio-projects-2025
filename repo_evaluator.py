@@ -138,7 +138,11 @@ class Repo:
         if not self.readme:
             self.issues.append("* [README](https://jonathansoma.com/fancy-github/readme/) not found")
             return
-            
+
+        # Check for project page link
+        if "github.io" not in self.readme.lower():
+            self.issues.append("* README needs link to project page")
+
         if self.readme.count(" ") < 150:
             self.issues.append("* [README](https://jonathansoma.com/fancy-github/readme/) looks short, not enough content")
         
@@ -192,10 +196,6 @@ class Repo:
     def run_checks(self):
         if not self.readme:
             return
-
-        # Check for project page link
-        if "github.io" not in self.readme.lower():
-            self.issues.append("* README needs link to project page")
 
         self.check_readme()
         self.check_files()

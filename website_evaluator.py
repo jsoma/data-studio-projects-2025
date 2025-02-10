@@ -254,6 +254,9 @@ class Website:
         if not await self.page.title():
             self.issues.append("* Needs a title, add a `<title>` tag to the `<head>`")
 
+        if 'project' in str(self.urlpath).lower() or 'story' in str(self.urlpath).lower():
+            self.issues.append("* URL should be descriptive, not including `project` or `story`")
+
         if not self.urlpath.endswith("index.html"):
             name = self.urlpath.split("/")[-1].replace(".html", "")
             self.issues.append(f"* All HTML files should be named `index.html`. If this is a personal project, move `{self.urlpath}` into a folder (or repo) called `{name}`, then rename the file `index.html`. That way the project can be found at **/{name}** instead of **/{name}.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)")
