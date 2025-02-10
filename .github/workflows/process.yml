@@ -23,6 +23,7 @@ jobs:
           python -m pip install --upgrade pipenv wheel
           pip install torch torchvision --index https://download.pytorch.org/whl/cpu
           pip install shot-scraper black pillow asyncio-pool openai markdown beautifulsoup4 python-doctr
+          playwright install
       - name: Run script
         run: python process.py
         env:
