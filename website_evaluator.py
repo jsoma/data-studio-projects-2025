@@ -338,7 +338,7 @@ class Website:
 
         self.repo.run_checks()
         if len(self.repo.issues) > 0:
-            self.issues.append(f"\n#### [Repository]({self.repo.full_url}) issues\n")
+            self.issues.append(f"\n#### [Project repository]({self.repo.full_url}) issues\n")
             self.issues.extend(self.repo.issues)
 
         # TODO
@@ -367,13 +367,13 @@ class Website:
         base_url = await self.page.evaluate('document.baseURI')
         
         for img in images:
+            image_issues = []
             src = img.get('src')
             if not src:
                 continue
             
             # Resolve relative URLs
             url = urljoin(base_url, src)
-            
             try:
                 # Download image
                 response = requests.get(url)
@@ -392,7 +392,7 @@ class Website:
                 try:
                     pil_image = Image.open(tmp_path)
                     if pil_image.height > 2500 or pil_image.height > 2500:
-                        self.issues.append(f"* Image `{filename}` is too big at {pil_image.width}x{pil_image.height}, should be no larger than 2500 in either dimension")
+                        image_issues.append(f"Image is too big at {pil_image.width}x{pil_image.height}")
 
                     # Process with docTR
                     doc = DocumentFile.from_images(tmp_path)
@@ -400,7 +400,7 @@ class Website:
                     
                     words = [word for word in result[0]['words'] if word[-1] > 0.7]
                     if len(words) > 4:
-                        self.issues.append(f"* Image `{filename}` has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility")
+                        image_issues.append(f"Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility")
 
                     ratio = pil_image.height / pil_image.width
 
@@ -410,15 +410,21 @@ class Website:
                     min_height = min(heights)
                     max_height = max(heights)
                     if min_height <= 12:
-                        self.issues.append(f"* Text in `{filename}` is too small: at mobile width, text heights range from (roughly) {min_height:.1f}px to {max_height:.1f} pixels. Should be 12px at absolute minimum.")
+                        image_issues.append(f"Text is too small: on phones, text is as small as {min_height:.1f}px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)")
                 finally:
                     # Clean up temp file
                     os.unlink(tmp_path)
                     
             except Exception as e:
                 print(e)
-                self.issues.append(f"* Could not analyze image `{filename}`")
+                image_issues.append(f"Could not analyze image `{filename}`")
 
+            if len(image_issues) == 1:
+                self.issues.append(f"* Image: `{filename}` {issue}")
+            elif len(image_issues) > 0:
+                self.issues.append(f"* Image: `{filename}`")
+                for issue in image_issues:
+                    self.issues.append(f"    * {issue}")
 
     async def process_as_new_page(self, context):
         await self.load(await context.new_page())
