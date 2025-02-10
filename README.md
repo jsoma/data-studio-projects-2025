@@ -25,7 +25,7 @@ Quick checks to make sure our pages are looking their best!
 <td><a href="#shuoshuobargithubio"><img src="screenshots/shuoshuobar.github.io/Low-Food-Access-Across-Race_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>shuoshuobar.github.io</a></td>
 <td><a href="#jcw2245githubio"><img src="screenshots/jcw2245.github.io/Project-1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>jcw2245.github.io</a></td>
 <td><a href="#kristen-shengithubio"><img src="screenshots/kristen-shen.github.io/idol_show_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>kristen-shen.github.io</a></td>
-<td>ananyabchetia.github.io request failed</td>
+<td><a href="#ananyabchetiagithubio"><img src="screenshots/ananyabchetia.github.io/penguins_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ananyabchetia.github.io</a></td>
 </tr><tr>
 </tr></table>
 
@@ -658,13 +658,25 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[REQUEST FAILED](http://ananyabchetia.github.io/penguins)|request failed|request failed|request failed|
+|[Ananya's data stories](https://ananyabchetia.github.io/penguins)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/ananyabchetia.github.io/penguins_index.html-mobile-thumb.jpg)](screenshots/ananyabchetia.github.io/penguins_index.html-mobile-full.jpg)|[![medium](screenshots/ananyabchetia.github.io/penguins_index.html-medium-thumb.jpg)](screenshots/ananyabchetia.github.io/penguins_index.html-medium-full.jpg)|[![wide](screenshots/ananyabchetia.github.io/penguins_index.html-wide-thumb.jpg)](screenshots/ananyabchetia.github.io/penguins_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**http://ananyabchetia.github.io/penguins**
+**https://ananyabchetia.github.io/penguins**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `gentoopenguinphoto.jpg` missing `alt` tag
+* Add a link to your project's GitHub repo, so people can review your code
+* Could not analyze image `gentoopenguinphoto.jpg`
+
+#### [Repository](https://github.com/ananyabchetia/penguins) issues
+
+* README needs link to project page
+* README seems to be missing required sections: reflections or future work
+* Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
+* Notebook `penguin.ipynb` should start with markdown explanation
+* Notebook `penguin.ipynb` needs more markdown documentation
+* No data files found. Include your raw/processed data or document where it can be accessed
 * 🤖 [Automatic feedback for copy edits](feedback/ananyabchetia.github.io/penguins_index.html.md)
 
