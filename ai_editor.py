@@ -97,7 +97,7 @@ def get_ap_feedback(html):
 
     chat_completion = client.chat.completions.create(
         messages=messages,
-        model="gpt-4-turbo-preview",
+        model="gpt-4o-mini",
     )
 
     # revision_message = {
