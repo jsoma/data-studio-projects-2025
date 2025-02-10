@@ -179,8 +179,9 @@ class Website:
                 continue
 
             try:
-                response = requests.head(link, timeout=5, allow_redirects=True)
-                if response.status_code == 404:
+                headers = { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36' }
+                response = requests.head(link, timeout=10, allow_redirects=True, headers=headers)
+                if response.status_code >= 400:
                     self.issues.append(f"* Dead link found: {link}")
             except:
                 self.issues.append(f"* Could not verify link: {link}")
