@@ -1,0 +1,36 @@
+# Feedback for [Ebb and Flow: America's Everchanging Views on Capital Punishment](https://amethystmart.github.io/my_site/death_penalty.html)
+
+[Request updated copy edits](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)
+
+## AP Style Feedback
+
+- Change "comes across as a cut and dry issue" to "comes across as a straightforward issue."
+- Replace "many laying along party lines" with "many lying along party lines."
+- Change "vastly disavowing the act as Republicans embrace it" to "vastly disavowing the act, while Republicans embrace it."
+- Change "the issue seems simple" to "the issue may seem simple."
+- Replace "has been one of the most hair splitting topics" with "has been one of the most hotly debated topics."
+- Change "an ebbing and flowing social issue that has changed with an extraordinarily complex story" to "an ebbing and flowing social issue with a complex history."
+- Replace "showed a sharp increase in those who believed capital punishment is not the answer" with "showed a sharp increase in those who believed capital punishment is not the solution."
+- Change "A time of radical change in the country" to "A time of significant change in the country."
+- Change "the country’s systems" to "the nation's systems."
+- Replace "George Floyd, a man who was killed by a police officer, brought to light social issues, and how it intersects with our governmental systems" with "George Floyd, a man killed by a police officer, brought to light social issues and their intersection with our governmental systems."
+- Change "change, and right then" to "change, and they wanted it immediately."
+- Change "In 2021, something did change among those surveyed" to "In 2021, changes were observed among those surveyed."
+- Replace "the GSS data showed a large increase opposing capital punishment– in fact, the lowest ever recorded since collection began in 1972" with "the GSS data showed a significant increase in opposition to capital punishment— in fact, the lowest level of support ever recorded since collection began in 1972."
+- Change "Although the reasoning may never be clear on why support for capital punishment plummeted during that year" to "While the reasons for the decline in support for capital punishment that year may never be clear."
+- Replace "over 2,400 people were on death row at the time" with "more than 2,400 people were on death row at the time."
+- Change "But the next year, another drastic change happened" to "However, the following year, another drastic change occurred."
+- Replace "a large group of people began to support the death penalty once more" with "a significant portion of the population began to support the death penalty once again."
+- Change "There’s only been one similar fluctuation to 2022 during the 50 year period: 1982, where support grew as just over 1,000 people were on death row at the time" to "Only one similar fluctuation to 2022 has occurred in the past 50 years: In 1982, support grew when just over 1,000 people were on death row."
+- Replace "After 43% opposed the death penalty in 2021, 36.7% opposed it just a year later" with "After 43 percent opposed the death penalty in 2021, 36.7 percent opposed it just one year later."
+- Change "could have just been normalizing after one of the most life-changing years in history" to "may have simply been normalizing after one of the most life-altering years in history."
+- Replace "the spike showing just how different life was when a global pandemic was happening" with "the spike illustrating how different life was during a global pandemic."
+- Change "the conversation of the death penalty and the ethics behind the act continues" to "the conversation surrounding the death penalty and its ethical implications continues."
+- Replace "calling for his execution to be halted" with "calling for the halt of his execution."
+- Change "Despite efforts to stop the procedure from both prosecutors, the victim’s family and many Americans" to "Despite efforts from both prosecutors, the victim’s family, and many Americans to halt the procedure."
+- Replace "and let his execution go on" with "and allowed his execution to proceed."
+- Change "He died on September 24, 2024, and was the 100th person to be executed in the state since 1989" to "He died on September 24, 2024, becoming the 100th person executed in the state since 1989."
+- Replace "according to the Death Penalty Information Center" with "according to the Death Penalty Information Center."
+- Change "As the issue remains highly-contested" to "As the issue remains highly contested."
+- Replace "the public’s opinion will continue to ebb and flow-- unless a stark change hits the nation" with "public opinion will continue to ebb and flow unless a stark change affects the nation."
+- Change "The github to this story's data can be found at: https://github.com/amethystmart/death_penalty" to "The GitHub repository for this story's data can be found at: https://github.com/amethystmart/death_penalty."

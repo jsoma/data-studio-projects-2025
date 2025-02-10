@@ -1,0 +1,25 @@
+# Feedback for [Cash Gap: more men than women on banknotes](https://somaiyahhafeez.github.io/banknotes/)
+
+[Request updated copy edits](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)
+
+## AP Style Feedback
+
+- Change "More Men Than Women on Banknotes." to "More Men Than Women on Banknotes." (Remove the period at the end of the title.)
+- Change "8 years old" to "8 years old." (Add a period at the end of the sentence.)
+- Change "Mary Reibey: Pioneer businesswoman with interests in shipping and property." to "Mary Reibey: A pioneer businesswoman with interests in shipping and property." (Add "A" to improve clarity.)
+- Change "Catherine Helen Spence: Journalist, social and political reformer, novelist, and feminist." to "Catherine Helen Spence: A journalist, social and political reformer, novelist, and feminist." (Add "A" for consistency.)
+- Change "Queen Elizabeth II’s passing" to "Queen Elizabeth II's passing." (Change the curly apostrophe to a straight apostrophe for consistency.)
+- Change "eight Commonwealth nations continue" to "eight Commonwealth nations continue." (Add a period at the end of the sentence.)
+- Change "when she was just eight years old." to "when she was just eight years old." (Add a period at the end of the sentence.)
+- Change "the following women have been immortalized" to "the following women have been immortalized" (Add a period at the end of the sentence.)
+- Change "However, following Queen Elizabeth II's passing," to "However, following Queen Elizabeth II's passing," (Change the curly apostrophe to a straight apostrophe for consistency.)
+- Change "and still largely reflect a male-dominated history, with women represented on only a small fraction of currency." to "and still largely reflect a male-dominated history, with women represented on only a small fraction of currency." (Add a period at the end of the sentence.)
+- Change "In the UK, it took Caroline Criado-Perez, a British author and journalist, almost a legal battle with the Bank of England and enduring online abuse to get Jane Austen on the £10 bill." to "In the U.K., it took Caroline Criado-Perez, a British author and journalist, almost a legal battle with the Bank of England and enduring online abuse to get Jane Austen on the £10 bill." (Abbreviate "United Kingdom" correctly.)
+- Change "her to fight for more women on banknotes." to "her to fight for more women on banknotes." (Add a period at the end of the sentence.)
+- Change "When the Bank of England announced in 2013 that Winston Churchill would replace Elizabeth Fry, a British prison and social reformer, on the £5 note from 2016," to "When the Bank of England announced in 2013 that Winston Churchill would replace Elizabeth Fry, a British prison and social reformer, on the £5 note beginning in 2016," (Use "beginning in" instead of "from" for clarity.)
+- Change "the importance of paper money continues to decline in an increasingly digital world," to "the importance of paper money continues to decline in an increasingly digital world," (Add a period at the end of the sentence.)
+- Change "the data clearly shows one thing: we are still far from achieving diverse gender representation on banknotes." to "the data clearly shows one thing: we are still far from achieving diverse gender representation on banknotes." (Add a period at the end of the sentence.)
+- Change "The question of who appears on currency might seem minor, but it’s part of a much broader conversation about equality." to "The question of who appears on currency might seem minor, but it is part of a much broader conversation about equality." (Change "it's" to "it is" for formal consistency.)
+- Change "Now is the time to reflect on who we choose to honor—and why, in most cases, they are predominantly men." to "Now is the time to reflect on who we choose to honor—and why, in most cases, they are predominantly men." (Add a period at the end of the sentence.)
+- Change "Despite progress in gender equality," to "Despite progress in gender equality," (Add a period at the end of the sentence.)
+- Change "However, the rare appearance of women on banknotes is a striking reflection of this gender disparity." to "However, the rare appearance of women on banknotes is a striking reflection of this gender disparity." (Add a period at the end of the sentence.)
