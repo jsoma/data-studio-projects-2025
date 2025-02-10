@@ -180,7 +180,7 @@ class Website:
 
             try:
                 response = requests.head(link, timeout=5, allow_redirects=True)
-                if response.status_code >= 400:
+                if response.status_code == 404:
                     self.issues.append(f"* Dead link found: {link}")
             except:
                 self.issues.append(f"* Could not verify link: {link}")
