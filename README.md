@@ -85,8 +85,6 @@ Quick checks to make sure our pages are looking their best!
 
 **https://somaiyahhafeez.github.io/banknotes/**
 
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `https://metro.co.uk/wp-content/uploads/2022/09/SEC_126325676-d6ec.jpg?quality=90&strip=all&crop=0px%2C0px%2C2400px%2C1261px&resize=1200%2C630` missing `alt` tag
 * Image: `SEC_126325676-d6ec.jpg?quality=90&strip=all&crop=0px%2C0px%2C2400px%2C1261px&resize=1200%2C630`
     * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
     * Text is too small: on phones, text is as small as 2.2px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
@@ -361,7 +359,7 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Story template (video progress)](https://chilinhhovo.github.io/Mercury/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/chilinhhovo.github.io/Mercury_index.html-mobile-thumb.jpg)](screenshots/chilinhhovo.github.io/Mercury_index.html-mobile-full.jpg)|[![medium](screenshots/chilinhhovo.github.io/Mercury_index.html-medium-thumb.jpg)](screenshots/chilinhhovo.github.io/Mercury_index.html-medium-full.jpg)|[![wide](screenshots/chilinhhovo.github.io/Mercury_index.html-wide-thumb.jpg)](screenshots/chilinhhovo.github.io/Mercury_index.html-wide-full.jpg)|
+|[Mercury craters](https://chilinhhovo.github.io/Mercury/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/chilinhhovo.github.io/Mercury_index.html-mobile-thumb.jpg)](screenshots/chilinhhovo.github.io/Mercury_index.html-mobile-full.jpg)|[![medium](screenshots/chilinhhovo.github.io/Mercury_index.html-medium-thumb.jpg)](screenshots/chilinhhovo.github.io/Mercury_index.html-medium-full.jpg)|[![wide](screenshots/chilinhhovo.github.io/Mercury_index.html-wide-thumb.jpg)](screenshots/chilinhhovo.github.io/Mercury_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
@@ -495,8 +493,8 @@ Quick checks to make sure our pages are looking their best!
 * Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
 * Should not include these file(s), please remove:
     * `.DS_Store`
-    * `2010 Food Access Research Atlas/.DS_Store`
     * `Charts/.DS_Store`
+    * `2010 Food Access Research Atlas/.DS_Store`
 * 🤖 [Automatic feedback for copy edits](feedback/shuoshuobar.github.io/Low-Food-Access-Across-Race_index.html.md)
 
 
