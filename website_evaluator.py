@@ -319,7 +319,7 @@ class Website:
 
         self.repo.run_checks()
         if len(self.repo.issues) > 0:
-            self.issues.append(f"\n## [Repository]({self.repo.full_url}) issues\n")
+            self.issues.append(f"\n#### [Repository]({self.repo.full_url}) issues\n")
             self.issues.extend(self.repo.issues)
 
         # TODO
