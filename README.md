@@ -415,7 +415,7 @@ Quick checks to make sure our pages are looking their best!
 * README needs link to project page
 * [README](https://jonathansoma.com/fancy-github/readme/) looks short, not enough content
 * README not organized into sections, use [h2/h3 headers](https://www.markdownguide.org/basic-syntax/)
-* README seems to be missing required sections: data collection, skills, reflections or future work
+* README seems to be missing required sections: description, data collection, skills, reflections or future work
 * Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
 * No Jupyter notebooks found, please add your analysis.
 * 🤖 [Automatic feedback for copy edits](feedback/suiumkanulanbek.github.io/project1_index.html.md)
@@ -658,7 +658,7 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Page not found · GitHub Pages](http://ananyabchetia.github.io/penguins)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[REQUEST FAILED](http://ananyabchetia.github.io/penguins)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
