@@ -367,7 +367,7 @@ class Website:
 
                     # Process with docTR
                     doc = DocumentFile.from_images(tmp_path)
-                    model = detection_predictor(pretrained=True)
+                    model = detection_predictor(pretrained=True, device='cpu')
                     result = model(doc)
                     
                     words = [word for word in result[0]['words'] if word[-1] > 0.7]
