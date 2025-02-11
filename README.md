@@ -5,17 +5,17 @@ Quick checks to make sure our pages are looking their best!
 <table><tr><td><a href="#hazel-gandhigithubio"><img src="screenshots/hazel-gandhi.github.io/academic-retractions-analysis_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>hazel-gandhi.github.io</a></td>
 <td><a href="#lg3394githubio"><img src="screenshots/lg3394.github.io/submarinecables_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>lg3394.github.io</a></td>
 <td><a href="#somaiyahhafeezgithubio"><img src="screenshots/somaiyahhafeez.github.io/banknotes_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>somaiyahhafeez.github.io</a></td>
-<td>gracejiang0612.github.io request failed</td>
+<td><a href="#gracejiang0612githubio"><img src="screenshots/gracejiang0612.github.io/olfactory-families_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>gracejiang0612.github.io</a></td>
 </tr><tr>
 <td><a href="#rosakettumakigithubio"><img src="screenshots/rosakettumaki.github.io/roller_coaster_story_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>rosakettumaki.github.io</a></td>
 <td><a href="#ashley-yihui-leegithubio"><img src="screenshots/ashley-yihui-lee.github.io/native-income_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ashley-yihui-lee.github.io</a></td>
 <td><a href="#yiren54610githubio"><img src="screenshots/yiren54610.github.io/MVP_olympics.html-medium-thumb.jpg" alt="homepage screenshot"><br>yiren54610.github.io</a></td>
 <td><a href="#amethystmartgithubio"><img src="screenshots/amethystmart.github.io/my_site_death_penalty.html-medium-thumb.jpg" alt="homepage screenshot"><br>amethystmart.github.io</a></td>
 </tr><tr>
-<td>annikamcginnis.github.io request failed</td>
+<td><a href="#annikamcginnisgithubio"><img src="screenshots/annikamcginnis.github.io/wildfires-fema_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>annikamcginnis.github.io</a></td>
 <td>rm4063.github.io request failed</td>
-<td>cj-robinson.github.io request failed</td>
-<td>anusha0712.github.io request failed</td>
+<td><a href="#cj-robinsongithubio"><img src="screenshots/cj-robinson.github.io/2024-nyc-evictions_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>cj-robinson.github.io</a></td>
+<td><a href="#anusha0712githubio"><img src="screenshots/anusha0712.github.io/banned-books_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>anusha0712.github.io</a></td>
 </tr><tr>
 <td><a href="#suiumkanulanbekgithubio"><img src="screenshots/suiumkanulanbek.github.io/project1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>suiumkanulanbek.github.io</a></td>
 <td><a href="#chilinhhovogithubio"><img src="screenshots/chilinhhovo.github.io/Mercury_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>chilinhhovo.github.io</a></td>
@@ -24,7 +24,7 @@ Quick checks to make sure our pages are looking their best!
 </tr><tr>
 <td><a href="#shuoshuobargithubio"><img src="screenshots/shuoshuobar.github.io/Low-Food-Access-Across-Race_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>shuoshuobar.github.io</a></td>
 <td><a href="#jcw2245githubio"><img src="screenshots/jcw2245.github.io/Project-1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>jcw2245.github.io</a></td>
-<td>kristen-shen.github.io request failed</td>
+<td><a href="#kristen-shengithubio"><img src="screenshots/kristen-shen.github.io/idol-show_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>kristen-shen.github.io</a></td>
 <td><a href="#ananyabchetiagithubio"><img src="screenshots/ananyabchetia.github.io/penguins_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ananyabchetia.github.io</a></td>
 </tr><tr>
 </tr></table>
@@ -111,15 +111,27 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Site not found · GitHub Pages](https://gracejiang0612.github.io/Olfactory-families/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[The Olfactory Notes That Make American Hearts Flutter](https://gracejiang0612.github.io/olfactory-families/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/gracejiang0612.github.io/olfactory-families_index.html-mobile-thumb.jpg)](screenshots/gracejiang0612.github.io/olfactory-families_index.html-mobile-full.jpg)|[![medium](screenshots/gracejiang0612.github.io/olfactory-families_index.html-medium-thumb.jpg)](screenshots/gracejiang0612.github.io/olfactory-families_index.html-medium-full.jpg)|[![wide](screenshots/gracejiang0612.github.io/olfactory-families_index.html-wide-thumb.jpg)](screenshots/gracejiang0612.github.io/olfactory-families_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**https://gracejiang0612.github.io/Olfactory-families/**
+**https://gracejiang0612.github.io/olfactory-families/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
-* 🤖 [Automatic feedback for copy edits](feedback/gracejiang0612.github.io/Olfactory-families_index.html.md)
+* Image: `fig1.png`
+    * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+    * Text is too small: on phones, text is as small as 4.0px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+* Image: `fig2.png`
+    * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+    * Text is too small: on phones, text is as small as 4.4px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+* Image: `fig3.png`
+    * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+    * Text is too small: on phones, text is as small as 4.8px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+* Image: `pic2.JPG`
+    * Image is too big at 5328x4000
+    * Text is too small: on phones, text is as small as 3.7px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+* Dead link found: https://www.reddit.com/r/FemFragLab/comments/1c6iur3/a_brief_analysis_of_the_most_popular_femfrags_in/
+* 🤖 [Automatic feedback for copy edits](feedback/gracejiang0612.github.io/olfactory-families_index.html.md)
 
 
 
@@ -255,15 +267,27 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Page not found · GitHub Pages](https://annikamcginnis.github.io/portfolio/wildfires-fema/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[The American West Faces a Fiery Future](https://annikamcginnis.github.io/wildfires-fema/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/annikamcginnis.github.io/wildfires-fema_index.html-mobile-thumb.jpg)](screenshots/annikamcginnis.github.io/wildfires-fema_index.html-mobile-full.jpg)|[![medium](screenshots/annikamcginnis.github.io/wildfires-fema_index.html-medium-thumb.jpg)](screenshots/annikamcginnis.github.io/wildfires-fema_index.html-medium-full.jpg)|[![wide](screenshots/annikamcginnis.github.io/wildfires-fema_index.html-wide-thumb.jpg)](screenshots/annikamcginnis.github.io/wildfires-fema_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**https://annikamcginnis.github.io/portfolio/wildfires-fema/**
+**https://annikamcginnis.github.io/wildfires-fema/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
-* 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/portfolio_wildfires-fema_index.html.md)
+* Dead link found: https://annikamcginnis.github.io/portfolio/
+* Could not verify link: https://www.fema.gov/openfema-data-page/fema-web-disaster-declarations-v1
+* Could not verify link: https://www.fema.gov/disaster/historic/coronavirus/governments
+* Could not verify link: https://www.washingtonpost.com/national-security/2025/02/09/fema-shutdown-noem-trump/
+* Could not verify link: https://www.washingtonpost.com/climate-environment/2025/02/07/musk-trump-fema-doge/
+
+#### [Project repository](https://github.com/annikamcginnis/wildfires-fema) issues
+
+* Should not include these file(s), please remove:
+    * `.DS_Store`
+* Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
+* Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
+* Notebook `FEMA Data Analysis.ipynb` needs more markdown documentation
+* 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
 
 
@@ -289,15 +313,20 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Page not found · GitHub Pages](https://cj-robinson.github.io/evictions-story/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[C.J. Robinson](https://cj-robinson.github.io/2024-nyc-evictions/)|[![mobile](screenshots/cj-robinson.github.io/2024-nyc-evictions_index.html-mobile-thumb.jpg)](screenshots/cj-robinson.github.io/2024-nyc-evictions_index.html-mobile-full.jpg)|[![medium](screenshots/cj-robinson.github.io/2024-nyc-evictions_index.html-medium-thumb.jpg)](screenshots/cj-robinson.github.io/2024-nyc-evictions_index.html-medium-full.jpg)|[![wide](screenshots/cj-robinson.github.io/2024-nyc-evictions_index.html-wide-thumb.jpg)](screenshots/cj-robinson.github.io/2024-nyc-evictions_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**https://cj-robinson.github.io/evictions-story/**
+**https://cj-robinson.github.io/2024-nyc-evictions/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
-* 🤖 [Automatic feedback for copy edits](feedback/cj-robinson.github.io/evictions-story_index.html.md)
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
+
+#### [Project repository](https://github.com/cj-robinson/2024-nyc-evictions) issues
+
+* README not organized into sections, use [h2/h3 headers](https://www.markdownguide.org/basic-syntax/)
+* README seems to be missing required sections: reflections or future work
+* 🤖 [Automatic feedback for copy edits](feedback/cj-robinson.github.io/2024-nyc-evictions_index.html.md)
 
 
 
@@ -306,15 +335,21 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Page not found · GitHub Pages](https://anusha0712.github.io/banned_books/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Visualizing Banned Books in American Schools](https://anusha0712.github.io/banned-books/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/anusha0712.github.io/banned-books_index.html-mobile-thumb.jpg)](screenshots/anusha0712.github.io/banned-books_index.html-mobile-full.jpg)|[![medium](screenshots/anusha0712.github.io/banned-books_index.html-medium-thumb.jpg)](screenshots/anusha0712.github.io/banned-books_index.html-medium-full.jpg)|[![wide](screenshots/anusha0712.github.io/banned-books_index.html-wide-thumb.jpg)](screenshots/anusha0712.github.io/banned-books_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**https://anusha0712.github.io/banned_books/**
+**https://anusha0712.github.io/banned-books/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
-* 🤖 [Automatic feedback for copy edits](feedback/anusha0712.github.io/banned_books_index.html.md)
+* Add a link to your project's GitHub repo, so people can review your code
+* Image: `cover.jpg`
+    * Image is too big at 6000x3376
+    * Text is too small: on phones, text is as small as 5.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+* Image: `treemap_final-01.svg` Text is too small: on phones, text is as small as 5.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+* Image: `radial_final.svg` Text is too small: on phones, text is as small as 5.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+* Dead link found: https://apnews.com/article/salman-rushdie-satanic-verses-india-ban-4b389bd17238c50c7a1373bc38896490
+* 🤖 [Automatic feedback for copy edits](feedback/anusha0712.github.io/banned-books_index.html.md)
 
 
 
@@ -538,15 +573,22 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Page not found · GitHub Pages](https://kristen-shen.github.io/idol_show/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Idol Survival Show](https://kristen-shen.github.io/idol-show/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/kristen-shen.github.io/idol-show_index.html-mobile-thumb.jpg)](screenshots/kristen-shen.github.io/idol-show_index.html-mobile-full.jpg)|[![medium](screenshots/kristen-shen.github.io/idol-show_index.html-medium-thumb.jpg)](screenshots/kristen-shen.github.io/idol-show_index.html-medium-full.jpg)|[![wide](screenshots/kristen-shen.github.io/idol-show_index.html-wide-thumb.jpg)](screenshots/kristen-shen.github.io/idol-show_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**https://kristen-shen.github.io/idol_show/**
+**https://kristen-shen.github.io/idol-show/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
-* 🤖 [Automatic feedback for copy edits](feedback/kristen-shen.github.io/idol_show_index.html.md)
+* Image: `logos.png`
+    * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+    * Text is too small: on phones, text is as small as 2.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+* Dead link found: https://github.com/Kristen-Shen/Kristen-Shen.github.io/tree/main/idol_show
+
+#### [Project repository](https://github.com/kristen-shen/idol-show) issues
+
+* Failed to download repository: Failed to download repository (status code: 404)
+* 🤖 [Automatic feedback for copy edits](feedback/kristen-shen.github.io/idol-show_index.html.md)
 
 
 
