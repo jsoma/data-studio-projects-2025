@@ -24,7 +24,7 @@ Quick checks to make sure our pages are looking their best!
 </tr><tr>
 <td><a href="#shuoshuobargithubio"><img src="screenshots/shuoshuobar.github.io/Low-Food-Access-Across-Race_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>shuoshuobar.github.io</a></td>
 <td><a href="#jcw2245githubio"><img src="screenshots/jcw2245.github.io/Project-1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>jcw2245.github.io</a></td>
-<td><a href="#kristen-shengithubio"><img src="screenshots/kristen-shen.github.io/idol_show_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>kristen-shen.github.io</a></td>
+<td>kristen-shen.github.io request failed</td>
 <td><a href="#ananyabchetiagithubio"><img src="screenshots/ananyabchetia.github.io/penguins_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ananyabchetia.github.io</a></td>
 </tr><tr>
 </tr></table>
@@ -493,8 +493,8 @@ Quick checks to make sure our pages are looking their best!
 * Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
 * Should not include these file(s), please remove:
     * `.DS_Store`
-    * `Charts/.DS_Store`
     * `2010 Food Access Research Atlas/.DS_Store`
+    * `Charts/.DS_Store`
 * 🤖 [Automatic feedback for copy edits](feedback/shuoshuobar.github.io/Low-Food-Access-Across-Race_index.html.md)
 
 
@@ -538,21 +538,14 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Idol Survival Show](https://kristen-shen.github.io/idol_show/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/kristen-shen.github.io/idol_show_index.html-mobile-thumb.jpg)](screenshots/kristen-shen.github.io/idol_show_index.html-mobile-full.jpg)|[![medium](screenshots/kristen-shen.github.io/idol_show_index.html-medium-thumb.jpg)](screenshots/kristen-shen.github.io/idol_show_index.html-medium-full.jpg)|[![wide](screenshots/kristen-shen.github.io/idol_show_index.html-wide-thumb.jpg)](screenshots/kristen-shen.github.io/idol_show_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://kristen-shen.github.io/idol_show/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://kristen-shen.github.io/idol_show/**
 
-* Change URL to use `-` instead of spaces or underscores
-* Image: `logos.png`
-    * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
-    * Text is too small: on phones, text is as small as 2.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
-
-#### [Project repository](https://github.com/kristen-shen/idol_show) issues
-
-* Failed to download repository: Failed to download repository (status code: 404)
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/kristen-shen.github.io/idol_show_index.html.md)
 
 
