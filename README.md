@@ -275,7 +275,6 @@ Quick checks to make sure our pages are looking their best!
 **https://annikamcginnis.github.io/wildfires-fema/**
 
 * Dead link found: https://annikamcginnis.github.io/portfolio/
-* Could not verify link: https://www.fema.gov/openfema-data-page/fema-web-disaster-declarations-v1
 * Could not verify link: https://www.fema.gov/disaster/historic/coronavirus/governments
 * Could not verify link: https://www.washingtonpost.com/national-security/2025/02/09/fema-shutdown-noem-trump/
 * Could not verify link: https://www.washingtonpost.com/climate-environment/2025/02/07/musk-trump-fema-doge/
@@ -287,6 +286,7 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
 * Notebook `FEMA Data Analysis.ipynb` needs more markdown documentation
+* Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-owners-v2
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
 
