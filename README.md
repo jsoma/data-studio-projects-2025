@@ -9,7 +9,7 @@ Quick checks to make sure our pages are looking their best!
 </tr><tr>
 <td><a href="#rosakettumakigithubio"><img src="screenshots/rosakettumaki.github.io/roller_coaster_story_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>rosakettumaki.github.io</a></td>
 <td><a href="#ashley-yihui-leegithubio"><img src="screenshots/ashley-yihui-lee.github.io/native-income_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ashley-yihui-lee.github.io</a></td>
-<td><a href="#yiren54610githubio"><img src="screenshots/yiren54610.github.io/MVP_olympics.html-medium-thumb.jpg" alt="homepage screenshot"><br>yiren54610.github.io</a></td>
+<td>yiren54610.github.io request failed</td>
 <td><a href="#amethystmartgithubio"><img src="screenshots/amethystmart.github.io/my_site_death_penalty.html-medium-thumb.jpg" alt="homepage screenshot"><br>amethystmart.github.io</a></td>
 </tr><tr>
 <td><a href="#annikamcginnisgithubio"><img src="screenshots/annikamcginnis.github.io/wildfires-fema_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>annikamcginnis.github.io</a></td>
@@ -196,38 +196,14 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Team USA Paris Olympics](https://yiren54610.github.io/MVP/olympics.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/yiren54610.github.io/MVP_olympics.html-mobile-thumb.jpg)](screenshots/yiren54610.github.io/MVP_olympics.html-mobile-full.jpg)|[![medium](screenshots/yiren54610.github.io/MVP_olympics.html-medium-thumb.jpg)](screenshots/yiren54610.github.io/MVP_olympics.html-medium-full.jpg)|[![wide](screenshots/yiren54610.github.io/MVP_olympics.html-wide-thumb.jpg)](screenshots/yiren54610.github.io/MVP_olympics.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://yiren54610.github.io/MVP/olympics.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://yiren54610.github.io/MVP/olympics.html**
 
-* All HTML files should be named `index.html`. If this is a personal project, move `MVP/olympics.html` into a folder (or repo) called `olympics`, then rename the file `index.html`. That way the project can be found at **/olympics** instead of **/olympics.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
-* Change URL to be all in lowercase
-* Image: `team.png`
-    * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
-    * Text is too small: on phones, text is as small as 4.4px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
-* Image: `dominant.png`
-    * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
-    * Text is too small: on phones, text is as small as 2.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
-* Image: `niche.png`
-    * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
-    * Text is too small: on phones, text is as small as 4.4px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
-
-#### [Project repository](https://github.com/yiren54610/MVP) issues
-
-* README needs link to project page
-* [README](https://jonathansoma.com/fancy-github/readme/) looks short, not enough content
-* README not organized into sections, use [h2/h3 headers](https://www.markdownguide.org/basic-syntax/)
-* README seems to be missing required sections: description, data collection, data analysis, skills, reflections or future work
-* Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
-* Should not include these file(s), please remove:
-    * `.DS_Store`
-    * `reporting/.DS_Store`
-    * `pictures/.DS_Store`
-* No Jupyter notebooks found, please add your analysis.
-* No data files found. Include your raw/processed data or document where it can be accessed
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/yiren54610.github.io/MVP_olympics.html.md)
 
 
@@ -276,6 +252,7 @@ Quick checks to make sure our pages are looking their best!
 
 * Dead link found: https://annikamcginnis.github.io/portfolio/
 * Could not verify link: https://www.fema.gov/openfema-data-page/fema-web-disaster-declarations-v1
+* Could not verify link: https://www.fema.gov/disaster/historic/coronavirus/governments
 * Could not verify link: https://www.washingtonpost.com/national-security/2025/02/09/fema-shutdown-noem-trump/
 * Could not verify link: https://www.washingtonpost.com/climate-environment/2025/02/07/musk-trump-fema-doge/
 
