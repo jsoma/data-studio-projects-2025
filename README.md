@@ -9,7 +9,7 @@ Quick checks to make sure our pages are looking their best!
 </tr><tr>
 <td><a href="#rosakettumakigithubio"><img src="screenshots/rosakettumaki.github.io/roller_coaster_story_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>rosakettumaki.github.io</a></td>
 <td><a href="#ashley-yihui-leegithubio"><img src="screenshots/ashley-yihui-lee.github.io/native-income_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ashley-yihui-lee.github.io</a></td>
-<td>yiren54610.github.io request failed</td>
+<td><a href="#yiren54610githubio"><img src="screenshots/yiren54610.github.io/olympic_us_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>yiren54610.github.io</a></td>
 <td><a href="#amethystmartgithubio"><img src="screenshots/amethystmart.github.io/my_site_death_penalty.html-medium-thumb.jpg" alt="homepage screenshot"><br>amethystmart.github.io</a></td>
 </tr><tr>
 <td><a href="#annikamcginnisgithubio"><img src="screenshots/annikamcginnis.github.io/wildfires-fema_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>annikamcginnis.github.io</a></td>
@@ -196,15 +196,35 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Page not found · GitHub Pages](https://yiren54610.github.io/MVP/olympics.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
+|[Team USA Paris Olympics](https://yiren54610.github.io/olympic_us/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/yiren54610.github.io/olympic_us_index.html-mobile-thumb.jpg)](screenshots/yiren54610.github.io/olympic_us_index.html-mobile-full.jpg)|[![medium](screenshots/yiren54610.github.io/olympic_us_index.html-medium-thumb.jpg)](screenshots/yiren54610.github.io/olympic_us_index.html-medium-full.jpg)|[![wide](screenshots/yiren54610.github.io/olympic_us_index.html-wide-thumb.jpg)](screenshots/yiren54610.github.io/olympic_us_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
-**https://yiren54610.github.io/MVP/olympics.html**
+**https://yiren54610.github.io/olympic_us/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
-* 🤖 [Automatic feedback for copy edits](feedback/yiren54610.github.io/MVP_olympics.html.md)
+* Change URL to use `-` instead of spaces or underscores
+* Image: `team.png`
+    * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+    * Text is too small: on phones, text is as small as 4.4px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+* Image: `dominant.png`
+    * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+    * Text is too small: on phones, text is as small as 2.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+* Image: `niche.png`
+    * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+    * Text is too small: on phones, text is as small as 4.4px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+
+#### [Project repository](https://github.com/yiren54610/olympic_us) issues
+
+* .gitignore file seems empty or too small
+* Should not include these file(s), please remove:
+    * `.DS_Store`
+    * `historical_data/.DS_Store`
+* Notebook `Data_scraping.ipynb` should start with markdown explanation
+* Notebook `correlation-checkpoint.ipynb` should start with markdown explanation
+* Notebook `Data_scraping-checkpoint.ipynb` should start with markdown explanation
+* Dead link found: https://yiren54610.github.io/MVP/olympics.html
+* 🤖 [Automatic feedback for copy edits](feedback/yiren54610.github.io/olympic_us_index.html.md)
 
 
 
