@@ -340,7 +340,6 @@ Quick checks to make sure our pages are looking their best!
 
 **https://anusha0712.github.io/banned-books/**
 
-* Add a link to your project's GitHub repo, so people can review your code
 * Image: `cover.jpg`
     * Image is too big at 6000x3376
     * Text is too small: on phones, text is as small as 5.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
