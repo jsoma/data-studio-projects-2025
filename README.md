@@ -271,7 +271,6 @@ Quick checks to make sure our pages are looking their best!
 **https://annikamcginnis.github.io/wildfires-fema/**
 
 * Dead link found: https://annikamcginnis.github.io/portfolio/
-* Could not verify link: https://www.fema.gov/openfema-data-page/fema-web-disaster-declarations-v1
 * Could not verify link: https://www.fema.gov/disaster/historic/coronavirus/governments
 * Dead link found: https://stateline.org/2025/02/06/trump-wants-states-to-handle-disasters-without-fema-they-say-they-cant/
 * Could not verify link: https://www.washingtonpost.com/national-security/2025/02/09/fema-shutdown-noem-trump/
