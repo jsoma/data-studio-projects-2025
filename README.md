@@ -559,6 +559,7 @@ Quick checks to make sure our pages are looking their best!
 
 * URL should be descriptive, not including `project` or `story`
 * Change URL to be all in lowercase
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `abortion_pic.jpg` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
@@ -614,6 +615,7 @@ Quick checks to make sure our pages are looking their best!
 
 **https://ananyabchetia.github.io/penguins**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `gentoopenguinphoto.jpg` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
