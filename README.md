@@ -90,6 +90,7 @@ Quick checks to make sure our pages are looking their best!
     * Text is too small: on phones, text is as small as 2.2px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://apnews.com/article/queen-elizabeth-ii-king-charles-iii-australia-business-25f05caba7d4d71b6952e52d695f4107
 * Dead link found: https://www.womenon20s.org/campaign
+* Could not verify link: https://github.com/somaiyahhafeez/banknotes/
 
 #### [Project repository](https://github.com/somaiyahhafeez/banknotes) issues
 
@@ -559,7 +560,6 @@ Quick checks to make sure our pages are looking their best!
 
 * URL should be descriptive, not including `project` or `story`
 * Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `abortion_pic.jpg` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
