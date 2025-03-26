@@ -202,7 +202,7 @@ Quick checks to make sure our pages are looking their best!
 
 #### [Project repository](https://github.com/ashley-yihui-lee/native-income) issues
 
-* Failed to download repository: Failed to download repository (status code: 404)
+* Failed to download repository: Failed to download repository (status code: 504)
 * 🤖 [Automatic feedback for copy edits](feedback/ashley-yihui-lee.github.io/native-income_index.html.md)
 
 
