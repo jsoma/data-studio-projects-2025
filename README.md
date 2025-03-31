@@ -23,7 +23,7 @@ Quick checks to make sure our pages are looking their best!
 <td><a href="#yatingw24githubio"><img src="screenshots/yatingw24.github.io/X-men_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>yatingw24.github.io</a></td>
 </tr><tr>
 <td><a href="#shuoshuobargithubio"><img src="screenshots/shuoshuobar.github.io/Low-Food-Access-Across-Race_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>shuoshuobar.github.io</a></td>
-<td><a href="#jcw2245githubio"><img src="screenshots/jcw2245.github.io/Project-1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>jcw2245.github.io</a></td>
+<td>jcw2245.github.io request failed</td>
 <td><a href="#kristen-shengithubio"><img src="screenshots/kristen-shen.github.io/idol-show_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>kristen-shen.github.io</a></td>
 <td><a href="#ananyabchetiagithubio"><img src="screenshots/ananyabchetia.github.io/penguins_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ananyabchetia.github.io</a></td>
 </tr><tr>
@@ -300,9 +300,6 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
 * Notebook `FEMA Data Analysis.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
-* Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-owners-v2
-* Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-renters-v2
-* Could not verify link: https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
 
@@ -549,31 +546,14 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Abortion data for Project 1](https://jcw2245.github.io/Project-1/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/jcw2245.github.io/Project-1_index.html-mobile-thumb.jpg)](screenshots/jcw2245.github.io/Project-1_index.html-mobile-full.jpg)|[![medium](screenshots/jcw2245.github.io/Project-1_index.html-medium-thumb.jpg)](screenshots/jcw2245.github.io/Project-1_index.html-medium-full.jpg)|[![wide](screenshots/jcw2245.github.io/Project-1_index.html-wide-thumb.jpg)](screenshots/jcw2245.github.io/Project-1_index.html-wide-full.jpg)|
+|[Site not found · GitHub Pages](https://jcw2245.github.io/Project-1/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://jcw2245.github.io/Project-1/**
 
-* URL should be descriptive, not including `project` or `story`
-* Change URL to be all in lowercase
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `abortion_pic.jpg` missing `alt` tag
-* Add a link to your project's GitHub repo, so people can review your code
-* Datawrapper chart missing description, fill out *Alternative description for screen readers* section on Annotate tab, [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Datawrapper chart missing description, fill out *Alternative description for screen readers* section on Annotate tab, [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-* Image: `abortion_pic.jpg`
-    * Image is too big at 4024x6048
-    * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
-    * Text is too small: on phones, text is as small as 8.8px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
-* Image: `full.png`
-    * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
-    * Text is too small: on phones, text is as small as 4.4px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
-* Image: `full.png`
-    * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
-    * Text is too small: on phones, text is as small as 4.4px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/jcw2245.github.io/Project-1_index.html.md)
 
 
