@@ -85,7 +85,6 @@ Quick checks to make sure our pages are looking their best!
 
 **https://somaiyahhafeez.github.io/banknotes/**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Image: `SEC_126325676-d6ec.jpg?quality=90&strip=all&crop=0px%2C0px%2C2400px%2C1261px&resize=1200%2C630`
     * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
     * Text is too small: on phones, text is as small as 2.2px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
@@ -301,7 +300,7 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
 * Notebook `FEMA Data Analysis.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
-* Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-owners-v2
+* Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-renters-v2
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
 
