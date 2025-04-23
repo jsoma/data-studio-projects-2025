@@ -4,7 +4,7 @@ Quick checks to make sure our pages are looking their best!
 
 <table><tr><td><a href="#hazel-gandhigithubio"><img src="screenshots/hazel-gandhi.github.io/academic-retractions-analysis_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>hazel-gandhi.github.io</a></td>
 <td><a href="#lg3394githubio"><img src="screenshots/lg3394.github.io/submarinecables_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>lg3394.github.io</a></td>
-<td><a href="#somaiyahhafeezgithubio"><img src="screenshots/somaiyahhafeez.github.io/banknotes_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>somaiyahhafeez.github.io</a></td>
+<td>somaiyahhafeez.github.io request failed</td>
 <td><a href="#gracejiang0612githubio"><img src="screenshots/gracejiang0612.github.io/olfactory-families_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>gracejiang0612.github.io</a></td>
 </tr><tr>
 <td><a href="#rosakettumakigithubio"><img src="screenshots/rosakettumaki.github.io/roller_coaster_story_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>rosakettumaki.github.io</a></td>
@@ -78,30 +78,14 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Cash Gap: more men than women on banknotes](https://somaiyahhafeez.github.io/banknotes/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/somaiyahhafeez.github.io/banknotes_index.html-mobile-thumb.jpg)](screenshots/somaiyahhafeez.github.io/banknotes_index.html-mobile-full.jpg)|[![medium](screenshots/somaiyahhafeez.github.io/banknotes_index.html-medium-thumb.jpg)](screenshots/somaiyahhafeez.github.io/banknotes_index.html-medium-full.jpg)|[![wide](screenshots/somaiyahhafeez.github.io/banknotes_index.html-wide-thumb.jpg)](screenshots/somaiyahhafeez.github.io/banknotes_index.html-wide-full.jpg)|
+|[Unicorn! · GitHub](https://somaiyahhafeez.github.io/banknotes/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://somaiyahhafeez.github.io/banknotes/**
 
-* Image: `SEC_126325676-d6ec.jpg?quality=90&strip=all&crop=0px%2C0px%2C2400px%2C1261px&resize=1200%2C630`
-    * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
-    * Text is too small: on phones, text is as small as 2.2px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
-* Dead link found: https://apnews.com/article/queen-elizabeth-ii-king-charles-iii-australia-business-25f05caba7d4d71b6952e52d695f4107
-* Dead link found: https://www.womenon20s.org/campaign
-
-#### [Project repository](https://github.com/somaiyahhafeez/banknotes) issues
-
-* README not organized into sections, use [h2/h3 headers](https://www.markdownguide.org/basic-syntax/)
-* Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
-* Should not include these file(s), please remove:
-    * `.DS_Store`
-* Notebook `analysis.ipynb` should start with markdown explanation
-* Notebook `analysis.ipynb` needs more markdown documentation
-* Notebook `analysis-checkpoint.ipynb` should start with markdown explanation
-* Notebook `analysis-checkpoint.ipynb` needs more markdown documentation
-* Dead link found: https://www.banknoteworld.com/banknotes/Banknotes-by-Country/
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/somaiyahhafeez.github.io/banknotes_index.html.md)
 
 
