@@ -3,7 +3,7 @@
 Quick checks to make sure our pages are looking their best!
 
 <table><tr><td><a href="#hazel-gandhigithubio"><img src="screenshots/hazel-gandhi.github.io/academic-retractions-analysis_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>hazel-gandhi.github.io</a></td>
-<td><a href="#lg3394githubio"><img src="screenshots/lg3394.github.io/submarinecables_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>lg3394.github.io</a></td>
+<td>lg3394.github.io request failed</td>
 <td><a href="#somaiyahhafeezgithubio"><img src="screenshots/somaiyahhafeez.github.io/banknotes_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>somaiyahhafeez.github.io</a></td>
 <td><a href="#gracejiang0612githubio"><img src="screenshots/gracejiang0612.github.io/olfactory-families_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>gracejiang0612.github.io</a></td>
 </tr><tr>
@@ -53,22 +53,14 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Submarine Cables: 15 Years of Growth](https://lg3394.github.io/submarinecables/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/lg3394.github.io/submarinecables_index.html-mobile-thumb.jpg)](screenshots/lg3394.github.io/submarinecables_index.html-mobile-full.jpg)|[![medium](screenshots/lg3394.github.io/submarinecables_index.html-medium-thumb.jpg)](screenshots/lg3394.github.io/submarinecables_index.html-medium-full.jpg)|[![wide](screenshots/lg3394.github.io/submarinecables_index.html-wide-thumb.jpg)](screenshots/lg3394.github.io/submarinecables_index.html-wide-full.jpg)|
+|[Page not found · GitHub Pages](https://lg3394.github.io/submarinecables/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://lg3394.github.io/submarinecables/**
 
-* Add a link to your project's GitHub repo, so people can review your code
-
-#### [Project repository](https://github.com/lg3394/submarinecables) issues
-
-* README needs link to project page
-* README not organized into sections, use [h2/h3 headers](https://www.markdownguide.org/basic-syntax/)
-* Should not include these file(s), please remove:
-    * `.DS_Store`
-* Notebook `submarinecablesapi.ipynb` needs more markdown documentation
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/lg3394.github.io/submarinecables_index.html.md)
 
 
@@ -300,7 +292,7 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
 * Notebook `FEMA Data Analysis.ipynb` needs more markdown documentation
-* Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-renters-v2
+* Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-owners-v2
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
 
