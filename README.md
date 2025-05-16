@@ -132,10 +132,10 @@ Quick checks to make sure our pages are looking their best!
 * Should not include these file(s), please remove:
     * `.DS_Store`
     * `image/.DS_Store`
-* Notebook `Perfume-scraper.ipynb` should start with markdown explanation
-* Notebook `Perfume-scraper.ipynb` needs more markdown documentation
 * Notebook `Ingredient-list.ipynb` should start with markdown explanation
 * Notebook `Ingredient-list.ipynb` needs more markdown documentation
+* Notebook `Perfume-scraper.ipynb` should start with markdown explanation
+* Notebook `Perfume-scraper.ipynb` needs more markdown documentation
 * Notebook `Perfume-scraper-checkpoint.ipynb` should start with markdown explanation
 * Notebook `Ingredient-list-checkpoint.ipynb` should start with markdown explanation
 * Notebook `Ingredient-list-checkpoint.ipynb` needs more markdown documentation
@@ -291,8 +291,8 @@ Quick checks to make sure our pages are looking their best!
 * Should not include these file(s), please remove:
     * `.DS_Store`
 * Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
-* Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
 * Notebook `FEMA Data Analysis.ipynb` needs more markdown documentation
+* Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
 
@@ -533,8 +533,8 @@ Quick checks to make sure our pages are looking their best!
 * Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
 * Should not include these file(s), please remove:
     * `.DS_Store`
-    * `2010 Food Access Research Atlas/.DS_Store`
     * `Charts/.DS_Store`
+    * `2010 Food Access Research Atlas/.DS_Store`
 * 🤖 [Automatic feedback for copy edits](feedback/shuoshuobar.github.io/Low-Food-Access-Across-Race_index.html.md)
 
 
