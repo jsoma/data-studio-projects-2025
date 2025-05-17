@@ -294,6 +294,7 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `FEMA Data Analysis.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
 * Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-owners-v2
+* Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-renters-v2
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
 
@@ -335,7 +336,6 @@ Quick checks to make sure our pages are looking their best!
 
 * README not organized into sections, use [h2/h3 headers](https://www.markdownguide.org/basic-syntax/)
 * README seems to be missing required sections: reflections or future work
-* Dead link found: https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4/about_data
 * 🤖 [Automatic feedback for copy edits](feedback/cj-robinson.github.io/2024-nyc-evictions_index.html.md)
 
 
@@ -588,7 +588,6 @@ Quick checks to make sure our pages are looking their best!
 
 **https://ananyabchetia.github.io/penguins**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `gentoopenguinphoto.jpg` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
