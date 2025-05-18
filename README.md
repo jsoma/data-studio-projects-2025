@@ -293,6 +293,7 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
 * Notebook `FEMA Data Analysis.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
+* Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-owners-v2
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
 
@@ -437,11 +438,10 @@ Quick checks to make sure our pages are looking their best!
 
 #### [Project repository](https://github.com/tiff-xwang/tinned-fish) issues
 
-* README needs link to project page
-* [README](https://jonathansoma.com/fancy-github/readme/) looks short, not enough content
-* README not organized into sections, use [h2/h3 headers](https://www.markdownguide.org/basic-syntax/)
-* README seems to be missing required sections: description, data collection, data analysis, skills, reflections or future work
+* README seems to be missing required sections: reflections or future work
 * Notebook `Tinned_Fish.ipynb` should start with markdown explanation
+* Could not verify link: Tinned_Fish.ipynb
+* Could not verify link: unit_price.csv
 * 🤖 [Automatic feedback for copy edits](feedback/tiff-xwang.github.io/tinned-fish_index.html.md)
 
 
