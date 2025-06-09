@@ -2,9 +2,9 @@
 
 Quick checks to make sure our pages are looking their best!
 
-<table><tr><td>hazel-gandhi.github.io request failed</td>
+<table><tr><td><a href="#hazel-gandhigithubio"><img src="screenshots/hazel-gandhi.github.io/academic-retractions-analysis_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>hazel-gandhi.github.io</a></td>
 <td>lg3394.github.io request failed</td>
-<td>somaiyahhafeez.github.io request failed</td>
+<td><a href="#somaiyahhafeezgithubio"><img src="screenshots/somaiyahhafeez.github.io/banknotes_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>somaiyahhafeez.github.io</a></td>
 <td><a href="#gracejiang0612githubio"><img src="screenshots/gracejiang0612.github.io/olfactory-families_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>gracejiang0612.github.io</a></td>
 </tr><tr>
 <td><a href="#rosakettumakigithubio"><img src="screenshots/rosakettumaki.github.io/roller_coaster_story_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>rosakettumaki.github.io</a></td>
@@ -36,15 +36,15 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[REQUEST FAILED](https://hazel-gandhi.github.io/academic-retractions-analysis/)|request failed|request failed|request failed|
+|[Academic Retractions](https://hazel-gandhi.github.io/academic-retractions-analysis/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/hazel-gandhi.github.io/academic-retractions-analysis_index.html-mobile-thumb.jpg)](screenshots/hazel-gandhi.github.io/academic-retractions-analysis_index.html-mobile-full.jpg)|[![medium](screenshots/hazel-gandhi.github.io/academic-retractions-analysis_index.html-medium-thumb.jpg)](screenshots/hazel-gandhi.github.io/academic-retractions-analysis_index.html-medium-full.jpg)|[![wide](screenshots/hazel-gandhi.github.io/academic-retractions-analysis_index.html-wide-thumb.jpg)](screenshots/hazel-gandhi.github.io/academic-retractions-analysis_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
 **https://hazel-gandhi.github.io/academic-retractions-analysis/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
-* 🤖 [Automatic feedback for copy edits](feedback/hazel-gandhi.github.io/academic-retractions-analysis_index.html.md)
+* 🤖 [Automatic feedback here](feedback/hazel-gandhi.github.io/academic-retractions-analysis_index.html.md)
+* No issues found! 🎉
 
 
 
@@ -70,14 +70,30 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[REQUEST FAILED](https://somaiyahhafeez.github.io/banknotes/)|request failed|request failed|request failed|
+|[Cash Gap: more men than women on banknotes](https://somaiyahhafeez.github.io/banknotes/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/somaiyahhafeez.github.io/banknotes_index.html-mobile-thumb.jpg)](screenshots/somaiyahhafeez.github.io/banknotes_index.html-mobile-full.jpg)|[![medium](screenshots/somaiyahhafeez.github.io/banknotes_index.html-medium-thumb.jpg)](screenshots/somaiyahhafeez.github.io/banknotes_index.html-medium-full.jpg)|[![wide](screenshots/somaiyahhafeez.github.io/banknotes_index.html-wide-thumb.jpg)](screenshots/somaiyahhafeez.github.io/banknotes_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
 **https://somaiyahhafeez.github.io/banknotes/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
+* Image: `SEC_126325676-d6ec.jpg?quality=90&strip=all&crop=0px%2C0px%2C2400px%2C1261px&resize=1200%2C630`
+    * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
+    * Text is too small: on phones, text is as small as 2.2px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+* Dead link found: https://apnews.com/article/queen-elizabeth-ii-king-charles-iii-australia-business-25f05caba7d4d71b6952e52d695f4107
+* Dead link found: https://www.womenon20s.org/campaign
+
+#### [Project repository](https://github.com/somaiyahhafeez/banknotes) issues
+
+* README not organized into sections, use [h2/h3 headers](https://www.markdownguide.org/basic-syntax/)
+* Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
+* Should not include these file(s), please remove:
+    * `.DS_Store`
+* Notebook `analysis.ipynb` should start with markdown explanation
+* Notebook `analysis.ipynb` needs more markdown documentation
+* Notebook `analysis-checkpoint.ipynb` should start with markdown explanation
+* Notebook `analysis-checkpoint.ipynb` needs more markdown documentation
+* Dead link found: https://www.banknoteworld.com/banknotes/Banknotes-by-Country/
 * 🤖 [Automatic feedback for copy edits](feedback/somaiyahhafeez.github.io/banknotes_index.html.md)
 
 
@@ -265,6 +281,7 @@ Quick checks to make sure our pages are looking their best!
 
 * Dead link found: https://annikamcginnis.github.io/portfolio/
 * Could not verify link: https://www.fema.gov/openfema-data-page/fema-web-disaster-declarations-v1
+* Could not verify link: https://www.fema.gov/disaster/historic/coronavirus/governments
 * Dead link found: https://stateline.org/2025/02/06/trump-wants-states-to-handle-disasters-without-fema-they-say-they-cant/
 * Could not verify link: https://www.washingtonpost.com/national-security/2025/02/09/fema-shutdown-noem-trump/
 * Could not verify link: https://www.washingtonpost.com/climate-environment/2025/02/07/musk-trump-fema-doge/
@@ -549,7 +566,6 @@ Quick checks to make sure our pages are looking their best!
     * Text is too small: on phones, text is as small as 2.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://wetv.vip/en/channel/10425?id=10425&type=PAGE_TYPE_MODULE_LIST
 * Dead link found: https://www.linkedin.com/in/kristen-he-shen-85a520214
-* Dead link found: https://www.instagram.com/krishen_river
 
 #### [Project repository](https://github.com/kristen-shen/idol-show) issues
 
@@ -570,6 +586,7 @@ Quick checks to make sure our pages are looking their best!
 
 **https://ananyabchetia.github.io/penguins**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `gentoopenguinphoto.jpg` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
