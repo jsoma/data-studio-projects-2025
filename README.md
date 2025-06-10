@@ -132,13 +132,13 @@ Quick checks to make sure our pages are looking their best!
 * Should not include these file(s), please remove:
     * `.DS_Store`
     * `image/.DS_Store`
-* Notebook `Ingredient-list.ipynb` should start with markdown explanation
-* Notebook `Ingredient-list.ipynb` needs more markdown documentation
 * Notebook `Perfume-scraper.ipynb` should start with markdown explanation
 * Notebook `Perfume-scraper.ipynb` needs more markdown documentation
-* Notebook `Perfume-scraper-checkpoint.ipynb` should start with markdown explanation
+* Notebook `Ingredient-list.ipynb` should start with markdown explanation
+* Notebook `Ingredient-list.ipynb` needs more markdown documentation
 * Notebook `Ingredient-list-checkpoint.ipynb` should start with markdown explanation
 * Notebook `Ingredient-list-checkpoint.ipynb` needs more markdown documentation
+* Notebook `Perfume-scraper-checkpoint.ipynb` should start with markdown explanation
 * 🤖 [Automatic feedback for copy edits](feedback/gracejiang0612.github.io/olfactory-families_index.html.md)
 
 
@@ -192,7 +192,6 @@ Quick checks to make sure our pages are looking their best!
     * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
     * Text is too small: on phones, text is as small as 2.6px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://indigenousgov.hks.harvard.edu/publications/social-and-economic-change-american-indian-reservations
-* Dead link found: https://www.nber.org/system/files/working_papers/w21913/w21913.pdf
 
 #### [Project repository](https://github.com/ashley-yihui-lee/native-income) issues
 
@@ -231,8 +230,8 @@ Quick checks to make sure our pages are looking their best!
     * `.DS_Store`
     * `historical_data/.DS_Store`
 * Notebook `Data_scraping.ipynb` should start with markdown explanation
-* Notebook `correlation-checkpoint.ipynb` should start with markdown explanation
 * Notebook `Data_scraping-checkpoint.ipynb` should start with markdown explanation
+* Notebook `correlation-checkpoint.ipynb` should start with markdown explanation
 * Dead link found: https://yiren54610.github.io/MVP/olympics.html
 * 🤖 [Automatic feedback for copy edits](feedback/yiren54610.github.io/olympic_us_index.html.md)
 
@@ -291,9 +290,10 @@ Quick checks to make sure our pages are looking their best!
 
 * Should not include these file(s), please remove:
     * `.DS_Store`
-* Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
-* Notebook `FEMA Data Analysis.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
+* Notebook `FEMA Data Analysis.ipynb` needs more markdown documentation
+* Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
+* Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-renters-v2
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
 
@@ -527,8 +527,8 @@ Quick checks to make sure our pages are looking their best!
 * Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
 * Should not include these file(s), please remove:
     * `.DS_Store`
-    * `Charts/.DS_Store`
     * `2010 Food Access Research Atlas/.DS_Store`
+    * `Charts/.DS_Store`
 * 🤖 [Automatic feedback for copy edits](feedback/shuoshuobar.github.io/Low-Food-Access-Across-Race_index.html.md)
 
 
