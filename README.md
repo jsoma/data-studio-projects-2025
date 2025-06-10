@@ -132,13 +132,13 @@ Quick checks to make sure our pages are looking their best!
 * Should not include these file(s), please remove:
     * `.DS_Store`
     * `image/.DS_Store`
-* Notebook `Perfume-scraper.ipynb` should start with markdown explanation
-* Notebook `Perfume-scraper.ipynb` needs more markdown documentation
 * Notebook `Ingredient-list.ipynb` should start with markdown explanation
 * Notebook `Ingredient-list.ipynb` needs more markdown documentation
+* Notebook `Perfume-scraper.ipynb` should start with markdown explanation
+* Notebook `Perfume-scraper.ipynb` needs more markdown documentation
+* Notebook `Perfume-scraper-checkpoint.ipynb` should start with markdown explanation
 * Notebook `Ingredient-list-checkpoint.ipynb` should start with markdown explanation
 * Notebook `Ingredient-list-checkpoint.ipynb` needs more markdown documentation
-* Notebook `Perfume-scraper-checkpoint.ipynb` should start with markdown explanation
 * 🤖 [Automatic feedback for copy edits](feedback/gracejiang0612.github.io/olfactory-families_index.html.md)
 
 
@@ -230,8 +230,8 @@ Quick checks to make sure our pages are looking their best!
     * `.DS_Store`
     * `historical_data/.DS_Store`
 * Notebook `Data_scraping.ipynb` should start with markdown explanation
-* Notebook `Data_scraping-checkpoint.ipynb` should start with markdown explanation
 * Notebook `correlation-checkpoint.ipynb` should start with markdown explanation
+* Notebook `Data_scraping-checkpoint.ipynb` should start with markdown explanation
 * Dead link found: https://yiren54610.github.io/MVP/olympics.html
 * 🤖 [Automatic feedback for copy edits](feedback/yiren54610.github.io/olympic_us_index.html.md)
 
@@ -290,10 +290,9 @@ Quick checks to make sure our pages are looking their best!
 
 * Should not include these file(s), please remove:
     * `.DS_Store`
-* Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
-* Notebook `FEMA Data Analysis.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
-* Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-renters-v2
+* Notebook `FEMA Data Analysis.ipynb` needs more markdown documentation
+* Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
 
@@ -527,8 +526,8 @@ Quick checks to make sure our pages are looking their best!
 * Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
 * Should not include these file(s), please remove:
     * `.DS_Store`
-    * `2010 Food Access Research Atlas/.DS_Store`
     * `Charts/.DS_Store`
+    * `2010 Food Access Research Atlas/.DS_Store`
 * 🤖 [Automatic feedback for copy edits](feedback/shuoshuobar.github.io/Low-Food-Access-Across-Race_index.html.md)
 
 
@@ -567,7 +566,6 @@ Quick checks to make sure our pages are looking their best!
     * Text is too small: on phones, text is as small as 2.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://wetv.vip/en/channel/10425?id=10425&type=PAGE_TYPE_MODULE_LIST
 * Dead link found: https://www.linkedin.com/in/kristen-he-shen-85a520214
-* Dead link found: https://www.instagram.com/krishen_river
 
 #### [Project repository](https://github.com/kristen-shen/idol-show) issues
 
