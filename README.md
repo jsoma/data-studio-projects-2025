@@ -293,6 +293,7 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
 * Notebook `FEMA Data Analysis.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
+* Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-renters-v2
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
 
@@ -327,6 +328,7 @@ Quick checks to make sure our pages are looking their best!
 **https://cj-robinson.github.io/2024-nyc-evictions/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Dead link found: https://citylimits.org/2024/09/11/good-cause-evictions-legal-litmus-test-begins/
 * Dead link found: https://bsky.app/profile/cj-robinson.bsky.social
 * Dead link found: https://www.linkedin.com/in/christophercjrobinson
 
