@@ -191,7 +191,6 @@ Quick checks to make sure our pages are looking their best!
 * Image: `ai2html-test-_1.jpg`
     * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
     * Text is too small: on phones, text is as small as 2.6px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
-* Dead link found: https://indigenousgov.hks.harvard.edu/publications/social-and-economic-change-american-indian-reservations
 
 #### [Project repository](https://github.com/ashley-yihui-lee/native-income) issues
 
@@ -382,7 +381,6 @@ Quick checks to make sure our pages are looking their best!
     * Text is too small: on phones, text is as small as 4.4px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://www.reddit.com/r/ChronicIllness/comments/1gx0sei/struggling_with_two_rare_diseases_and_denied/
 * Dead link found: https://www.reddit.com/r/ChronicIllness/comments/1db8mlc/having_an_orphan_disease_is_so_unfair/
-* Could not verify link: https://chiesirarediseases.com/assets/pdf/chiesiglobalrarediseases.whitepaper-feb.-2022_production-proof.pdf
 * Dead link found: https://pmc.ncbi.nlm.nih.gov/articles/PMC9004040/#_ad93_
 
 #### [Project repository](https://github.com/suiumkanulanbek/project1) issues
