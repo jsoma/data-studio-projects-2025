@@ -157,7 +157,7 @@ Quick checks to make sure our pages are looking their best!
 
 * URL should be descriptive, not including `project` or `story`
 * Change URL to use `-` instead of spaces or underscores
-* Could not verify link: https://rcdb.com/
+* Dead link found: https://rcdb.com/
 * Dead link found: https://www.pexels.com/
 
 #### [Project repository](https://github.com/rosakettumaki/roller_coaster_story) issues
@@ -192,7 +192,6 @@ Quick checks to make sure our pages are looking their best!
     * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
     * Text is too small: on phones, text is as small as 2.6px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://indigenousgov.hks.harvard.edu/publications/social-and-economic-change-american-indian-reservations
-* Could not verify link: https://www.nber.org/system/files/working_papers/w21913/w21913.pdf
 
 #### [Project repository](https://github.com/ashley-yihui-lee/native-income) issues
 
@@ -586,7 +585,6 @@ Quick checks to make sure our pages are looking their best!
 
 **https://ananyabchetia.github.io/penguins**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `gentoopenguinphoto.jpg` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
