@@ -281,6 +281,7 @@ Quick checks to make sure our pages are looking their best!
 
 * Dead link found: https://annikamcginnis.github.io/portfolio/
 * Could not verify link: https://www.fema.gov/openfema-data-page/fema-web-disaster-declarations-v1
+* Could not verify link: https://www.fema.gov/disaster/historic/coronavirus/governments
 * Dead link found: https://stateline.org/2025/02/06/trump-wants-states-to-handle-disasters-without-fema-they-say-they-cant/
 * Could not verify link: https://www.washingtonpost.com/national-security/2025/02/09/fema-shutdown-noem-trump/
 * Could not verify link: https://www.washingtonpost.com/climate-environment/2025/02/07/musk-trump-fema-doge/
@@ -292,7 +293,6 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `FEMA Data Analysis.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
-* Could not verify link: https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
 
@@ -439,6 +439,7 @@ Quick checks to make sure our pages are looking their best!
 
 * README seems to be missing required sections: reflections or future work
 * Notebook `Tinned_Fish.ipynb` should start with markdown explanation
+* Dead link found: https://rainbowtomatoesgarden.com/
 * Could not verify link: Tinned_Fish.ipynb
 * Could not verify link: unit_price.csv
 * 🤖 [Automatic feedback for copy edits](feedback/tiff-xwang.github.io/tinned-fish_index.html.md)
