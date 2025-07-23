@@ -158,6 +158,7 @@ Quick checks to make sure our pages are looking their best!
 * URL should be descriptive, not including `project` or `story`
 * Change URL to use `-` instead of spaces or underscores
 * Dead link found: https://rcdb.com/
+* Could not verify link: https://github.com/rosakettumaki/roller_coaster_story
 * Dead link found: https://www.pexels.com/
 
 #### [Project repository](https://github.com/rosakettumaki/roller_coaster_story) issues
@@ -565,6 +566,7 @@ Quick checks to make sure our pages are looking their best!
     * Text is too small: on phones, text is as small as 2.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://wetv.vip/en/channel/10425?id=10425&type=PAGE_TYPE_MODULE_LIST
 * Dead link found: https://www.linkedin.com/in/kristen-he-shen-85a520214
+* Dead link found: https://www.instagram.com/krishen_river
 
 #### [Project repository](https://github.com/kristen-shen/idol-show) issues
 
