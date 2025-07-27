@@ -162,9 +162,7 @@ Quick checks to make sure our pages are looking their best!
 
 #### [Project repository](https://github.com/rosakettumaki/roller_coaster_story) issues
 
-* README not organized into sections, use [h2/h3 headers](https://www.markdownguide.org/basic-syntax/)
-* Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
-* No Jupyter notebooks found, please add your analysis.
+* Failed to download repository: Failed to download repository (status code: 429)
 * 🤖 [Automatic feedback for copy edits](feedback/rosakettumaki.github.io/roller_coaster_story_index.html.md)
 
 
@@ -288,11 +286,7 @@ Quick checks to make sure our pages are looking their best!
 
 #### [Project repository](https://github.com/annikamcginnis/wildfires-fema) issues
 
-* Should not include these file(s), please remove:
-    * `.DS_Store`
-* Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
-* Notebook `FEMA Data Analysis.ipynb` needs more markdown documentation
-* Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
+* Failed to download repository: Failed to download repository (status code: 429)
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
 
@@ -327,14 +321,12 @@ Quick checks to make sure our pages are looking their best!
 **https://cj-robinson.github.io/2024-nyc-evictions/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Could not verify link: https://legalaidnyc.org/get-help/housing-problems/what-you-need-to-know-about-new-yorks-good-cause-eviction-law/
 * Dead link found: https://bsky.app/profile/cj-robinson.bsky.social
 * Dead link found: https://www.linkedin.com/in/christophercjrobinson
 
 #### [Project repository](https://github.com/cj-robinson/2024-nyc-evictions) issues
 
-* README not organized into sections, use [h2/h3 headers](https://www.markdownguide.org/basic-syntax/)
-* README seems to be missing required sections: reflections or future work
+* Failed to download repository: Failed to download repository (status code: 429)
 * 🤖 [Automatic feedback for copy edits](feedback/cj-robinson.github.io/2024-nyc-evictions_index.html.md)
 
 
@@ -358,6 +350,10 @@ Quick checks to make sure our pages are looking their best!
 * Image: `radial_final.svg` Text is too small: on phones, text is as small as 5.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://www.dhhrm.org/exhibitions/the-book-smugglers/
 * Dead link found: https://apnews.com/article/salman-rushdie-satanic-verses-india-ban-4b389bd17238c50c7a1373bc38896490
+
+#### [Project repository](https://github.com/anusha0712/banned-books) issues
+
+* Failed to download repository: Failed to download repository (status code: 429)
 * 🤖 [Automatic feedback for copy edits](feedback/anusha0712.github.io/banned-books_index.html.md)
 
 
@@ -522,12 +518,7 @@ Quick checks to make sure our pages are looking their best!
 
 #### [Project repository](https://github.com/shuoshuobar/Low-Food-Access-Across-Race) issues
 
-* README needs link to project page
-* Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
-* Should not include these file(s), please remove:
-    * `.DS_Store`
-    * `2010 Food Access Research Atlas/.DS_Store`
-    * `Charts/.DS_Store`
+* Failed to download repository: Failed to download repository (status code: 503)
 * 🤖 [Automatic feedback for copy edits](feedback/shuoshuobar.github.io/Low-Food-Access-Across-Race_index.html.md)
 
 
@@ -586,6 +577,7 @@ Quick checks to make sure our pages are looking their best!
 
 **https://ananyabchetia.github.io/penguins**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `gentoopenguinphoto.jpg` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
