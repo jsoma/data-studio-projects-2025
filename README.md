@@ -85,15 +85,7 @@ Quick checks to make sure our pages are looking their best!
 
 #### [Project repository](https://github.com/somaiyahhafeez/banknotes) issues
 
-* README not organized into sections, use [h2/h3 headers](https://www.markdownguide.org/basic-syntax/)
-* Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
-* Should not include these file(s), please remove:
-    * `.DS_Store`
-* Notebook `analysis.ipynb` should start with markdown explanation
-* Notebook `analysis.ipynb` needs more markdown documentation
-* Notebook `analysis-checkpoint.ipynb` should start with markdown explanation
-* Notebook `analysis-checkpoint.ipynb` needs more markdown documentation
-* Dead link found: https://www.banknoteworld.com/banknotes/Banknotes-by-Country/
+* Failed to download repository: Failed to download repository (status code: 503)
 * 🤖 [Automatic feedback for copy edits](feedback/somaiyahhafeez.github.io/banknotes_index.html.md)
 
 
@@ -162,9 +154,7 @@ Quick checks to make sure our pages are looking their best!
 
 #### [Project repository](https://github.com/rosakettumaki/roller_coaster_story) issues
 
-* README not organized into sections, use [h2/h3 headers](https://www.markdownguide.org/basic-syntax/)
-* Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
-* No Jupyter notebooks found, please add your analysis.
+* Failed to download repository: Failed to download repository (status code: 503)
 * 🤖 [Automatic feedback for copy edits](feedback/rosakettumaki.github.io/roller_coaster_story_index.html.md)
 
 
@@ -191,10 +181,11 @@ Quick checks to make sure our pages are looking their best!
 * Image: `ai2html-gender-_1.jpg`
     * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
     * Text is too small: on phones, text is as small as 5.5px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+* Dead link found: https://indigenousgov.hks.harvard.edu/publications/social-and-economic-change-american-indian-reservations
 
 #### [Project repository](https://github.com/ashley-yihui-lee/native-income) issues
 
-* Failed to download repository: Failed to download repository (status code: 404)
+* Failed to download repository: Failed to download repository (status code: 503)
 * 🤖 [Automatic feedback for copy edits](feedback/ashley-yihui-lee.github.io/native-income_index.html.md)
 
 
@@ -221,6 +212,7 @@ Quick checks to make sure our pages are looking their best!
 * Image: `niche.png`
     * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
     * Text is too small: on phones, text is as small as 4.4px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+* Dead link found: https://github.com/yiren54610/olympic_us.git
 
 #### [Project repository](https://github.com/yiren54610/olympic_us) issues
 
@@ -255,13 +247,7 @@ Quick checks to make sure our pages are looking their best!
 
 #### [Project repository](https://github.com/amethystmart/my_site) issues
 
-* README needs link to project page
-* [README](https://jonathansoma.com/fancy-github/readme/) looks short, not enough content
-* README not organized into sections, use [h2/h3 headers](https://www.markdownguide.org/basic-syntax/)
-* README seems to be missing required sections: description, data collection, data analysis, skills, reflections or future work
-* Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
-* No Jupyter notebooks found, please add your analysis.
-* No data files found. Include your raw/processed data or document where it can be accessed
+* Failed to download repository: Failed to download repository (status code: 503)
 * 🤖 [Automatic feedback for copy edits](feedback/amethystmart.github.io/my_site_death_penalty.html.md)
 
 
@@ -280,6 +266,7 @@ Quick checks to make sure our pages are looking their best!
 
 * Dead link found: https://annikamcginnis.github.io/portfolio/
 * Could not verify link: https://www.fema.gov/openfema-data-page/fema-web-disaster-declarations-v1
+* Could not verify link: https://www.fema.gov/disaster/historic/coronavirus/governments
 * Dead link found: https://stateline.org/2025/02/06/trump-wants-states-to-handle-disasters-without-fema-they-say-they-cant/
 * Could not verify link: https://www.washingtonpost.com/national-security/2025/02/09/fema-shutdown-noem-trump/
 * Could not verify link: https://www.washingtonpost.com/climate-environment/2025/02/07/musk-trump-fema-doge/
@@ -291,6 +278,8 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
 * Notebook `FEMA Data Analysis.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
+* Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-renters-v2
+* Could not verify link: https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
 
@@ -327,6 +316,7 @@ Quick checks to make sure our pages are looking their best!
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Dead link found: https://bsky.app/profile/cj-robinson.bsky.social
 * Dead link found: https://www.linkedin.com/in/christophercjrobinson
+* Dead link found: https://github.com/cj-robinson
 
 #### [Project repository](https://github.com/cj-robinson/2024-nyc-evictions) issues
 
@@ -435,10 +425,7 @@ Quick checks to make sure our pages are looking their best!
 
 #### [Project repository](https://github.com/tiff-xwang/tinned-fish) issues
 
-* README seems to be missing required sections: reflections or future work
-* Notebook `Tinned_Fish.ipynb` should start with markdown explanation
-* Could not verify link: Tinned_Fish.ipynb
-* Could not verify link: unit_price.csv
+* Failed to download repository: Failed to download repository (status code: 503)
 * 🤖 [Automatic feedback for copy edits](feedback/tiff-xwang.github.io/tinned-fish_index.html.md)
 
 
@@ -562,6 +549,7 @@ Quick checks to make sure our pages are looking their best!
     * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
     * Text is too small: on phones, text is as small as 2.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://wetv.vip/en/channel/10425?id=10425&type=PAGE_TYPE_MODULE_LIST
+* Dead link found: https://github.com/Kristen-Shen/Kristen-Shen.github.io/tree/main/idol-show
 * Dead link found: https://www.linkedin.com/in/kristen-he-shen-85a520214
 * Dead link found: https://www.instagram.com/krishen_river
 
@@ -584,6 +572,7 @@ Quick checks to make sure our pages are looking their best!
 
 **https://ananyabchetia.github.io/penguins**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `gentoopenguinphoto.jpg` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
