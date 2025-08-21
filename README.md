@@ -360,10 +360,6 @@ Quick checks to make sure our pages are looking their best!
 * Image: `radial_final.svg` Text is too small: on phones, text is as small as 5.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://www.dhhrm.org/exhibitions/the-book-smugglers/
 * Dead link found: https://apnews.com/article/salman-rushdie-satanic-verses-india-ban-4b389bd17238c50c7a1373bc38896490
-
-#### [Project repository](https://github.com/anusha0712/banned-books) issues
-
-* Could not verify link: https://coolors.co
 * 🤖 [Automatic feedback for copy edits](feedback/anusha0712.github.io/banned-books_index.html.md)
 
 
