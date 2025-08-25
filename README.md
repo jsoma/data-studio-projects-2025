@@ -93,6 +93,7 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `analysis.ipynb` needs more markdown documentation
 * Notebook `analysis-checkpoint.ipynb` should start with markdown explanation
 * Notebook `analysis-checkpoint.ipynb` needs more markdown documentation
+* Dead link found: https://en.wikipedia.org/wiki/List_of_people_on_banknotes
 * Dead link found: https://www.banknoteworld.com/banknotes/Banknotes-by-Country/
 * 🤖 [Automatic feedback for copy edits](feedback/somaiyahhafeez.github.io/banknotes_index.html.md)
 
@@ -292,7 +293,6 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
 * Notebook `FEMA Data Analysis.ipynb` needs more markdown documentation
-* Could not verify link: https://www.fema.gov/openfema-data-page/fema-web-disaster-declarations-v1
 * Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-owners-v2
 * Could not verify link: https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
@@ -329,6 +329,7 @@ Quick checks to make sure our pages are looking their best!
 **https://cj-robinson.github.io/2024-nyc-evictions/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Could not verify link: https://citylimits.org/2024/09/11/good-cause-evictions-legal-litmus-test-begins/
 * Dead link found: https://bsky.app/profile/cj-robinson.bsky.social
 * Dead link found: https://www.linkedin.com/in/christophercjrobinson
 
