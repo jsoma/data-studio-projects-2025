@@ -387,7 +387,6 @@ Quick checks to make sure our pages are looking their best!
     * Text is too small: on phones, text is as small as 4.4px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://www.reddit.com/r/ChronicIllness/comments/1gx0sei/struggling_with_two_rare_diseases_and_denied/
 * Dead link found: https://www.reddit.com/r/ChronicIllness/comments/1db8mlc/having_an_orphan_disease_is_so_unfair/
-* Could not verify link: https://chiesirarediseases.com/assets/pdf/chiesiglobalrarediseases.whitepaper-feb.-2022_production-proof.pdf
 * Dead link found: https://pmc.ncbi.nlm.nih.gov/articles/PMC9004040/#_ad93_
 
 #### [Project repository](https://github.com/suiumkanulanbek/project1) issues
@@ -591,6 +590,7 @@ Quick checks to make sure our pages are looking their best!
 
 **https://ananyabchetia.github.io/penguins**
 
+* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `gentoopenguinphoto.jpg` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
