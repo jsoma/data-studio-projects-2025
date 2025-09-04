@@ -281,8 +281,6 @@ Quick checks to make sure our pages are looking their best!
 **https://annikamcginnis.github.io/wildfires-fema/**
 
 * Dead link found: https://annikamcginnis.github.io/portfolio/
-* Could not verify link: https://www.fema.gov/openfema-data-page/fema-web-disaster-declarations-v1
-* Could not verify link: https://www.fema.gov/disaster/historic/coronavirus/governments
 * Dead link found: https://stateline.org/2025/02/06/trump-wants-states-to-handle-disasters-without-fema-they-say-they-cant/
 * Could not verify link: https://www.washingtonpost.com/national-security/2025/02/09/fema-shutdown-noem-trump/
 * Could not verify link: https://www.washingtonpost.com/climate-environment/2025/02/07/musk-trump-fema-doge/
@@ -330,7 +328,6 @@ Quick checks to make sure our pages are looking their best!
 **https://cj-robinson.github.io/2024-nyc-evictions/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Could not verify link: https://legalaidnyc.org/get-help/housing-problems/what-you-need-to-know-about-new-yorks-good-cause-eviction-law/
 * Dead link found: https://bsky.app/profile/cj-robinson.bsky.social
 * Dead link found: https://www.linkedin.com/in/christophercjrobinson
 
@@ -569,6 +566,7 @@ Quick checks to make sure our pages are looking their best!
     * Text is too small: on phones, text is as small as 2.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://wetv.vip/en/channel/10425?id=10425&type=PAGE_TYPE_MODULE_LIST
 * Dead link found: https://www.linkedin.com/in/kristen-he-shen-85a520214
+* Dead link found: https://www.instagram.com/krishen_river
 
 #### [Project repository](https://github.com/kristen-shen/idol-show) issues
 
