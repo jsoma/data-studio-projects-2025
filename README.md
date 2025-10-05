@@ -192,7 +192,6 @@ Quick checks to make sure our pages are looking their best!
     * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
     * Text is too small: on phones, text is as small as 5.5px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://indigenousgov.hks.harvard.edu/publications/social-and-economic-change-american-indian-reservations
-* Dead link found: https://www.nber.org/system/files/working_papers/w21913/w21913.pdf
 
 #### [Project repository](https://github.com/ashley-yihui-lee/native-income) issues
 
@@ -294,7 +293,6 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `FEMA Data Analysis.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
-* Could not verify link: https://www.fema.gov/openfema-data-page/fema-web-disaster-declarations-v1
 * Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-owners-v2
 * Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-renters-v2
 * Could not verify link: https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1
