@@ -158,6 +158,7 @@ Quick checks to make sure our pages are looking their best!
 * URL should be descriptive, not including `project` or `story`
 * Change URL to use `-` instead of spaces or underscores
 * Dead link found: https://rcdb.com/
+* Could not verify link: https://github.com/rosakettumaki/roller_coaster_story
 * Dead link found: https://www.pexels.com/
 
 #### [Project repository](https://github.com/rosakettumaki/roller_coaster_story) issues
@@ -587,7 +588,6 @@ Quick checks to make sure our pages are looking their best!
 
 **https://ananyabchetia.github.io/penguins**
 
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
     * Image `gentoopenguinphoto.jpg` missing `alt` tag
 * Add a link to your project's GitHub repo, so people can review your code
