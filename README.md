@@ -280,6 +280,7 @@ Quick checks to make sure our pages are looking their best!
 **https://annikamcginnis.github.io/wildfires-fema/**
 
 * Dead link found: https://annikamcginnis.github.io/portfolio/
+* Could not verify link: https://www.fema.gov/openfema-data-page/fema-web-disaster-declarations-v1
 * Could not verify link: https://www.fema.gov/disaster/historic/coronavirus/governments
 * Dead link found: https://stateline.org/2025/02/06/trump-wants-states-to-handle-disasters-without-fema-they-say-they-cant/
 * Could not verify link: https://www.washingtonpost.com/national-security/2025/02/09/fema-shutdown-noem-trump/
@@ -358,10 +359,6 @@ Quick checks to make sure our pages are looking their best!
 * Image: `treemap_final-01.svg` Text is too small: on phones, text is as small as 5.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Image: `radial_final.svg` Text is too small: on phones, text is as small as 5.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://www.dhhrm.org/exhibitions/the-book-smugglers/
-
-#### [Project repository](https://github.com/anusha0712/banned-books) issues
-
-* Could not verify link: https://coolors.co
 * 🤖 [Automatic feedback for copy edits](feedback/anusha0712.github.io/banned-books_index.html.md)
 
 
