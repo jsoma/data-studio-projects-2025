@@ -20,7 +20,7 @@ Quick checks to make sure our pages are looking their best!
 <td><a href="#suiumkanulanbekgithubio"><img src="screenshots/suiumkanulanbek.github.io/project1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>suiumkanulanbek.github.io</a></td>
 <td><a href="#chilinhhovogithubio"><img src="screenshots/chilinhhovo.github.io/Mercury_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>chilinhhovo.github.io</a></td>
 <td><a href="#tiff-xwanggithubio"><img src="screenshots/tiff-xwang.github.io/tinned-fish_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>tiff-xwang.github.io</a></td>
-<td>yatingw24.github.io request failed</td>
+<td><a href="#yatingw24githubio"><img src="screenshots/yatingw24.github.io/X-men_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>yatingw24.github.io</a></td>
 </tr><tr>
 <td><a href="#shuoshuobargithubio"><img src="screenshots/shuoshuobar.github.io/Low-Food-Access-Across-Race_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>shuoshuobar.github.io</a></td>
 <td>jcw2245.github.io request failed</td>
@@ -280,6 +280,8 @@ Quick checks to make sure our pages are looking their best!
 **https://annikamcginnis.github.io/wildfires-fema/**
 
 * Dead link found: https://annikamcginnis.github.io/portfolio/
+* Could not verify link: https://www.fema.gov/openfema-data-page/fema-web-disaster-declarations-v1
+* Could not verify link: https://www.fema.gov/disaster/historic/coronavirus/governments
 * Dead link found: https://stateline.org/2025/02/06/trump-wants-states-to-handle-disasters-without-fema-they-say-they-cant/
 * Could not verify link: https://www.washingtonpost.com/national-security/2025/02/09/fema-shutdown-noem-trump/
 * Could not verify link: https://www.washingtonpost.com/climate-environment/2025/02/07/musk-trump-fema-doge/
@@ -450,14 +452,28 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[REQUEST FAILED](https://yatingw24.github.io/X-men/)|request failed|request failed|request failed|
+|[Phoenix From the Ashes: The Tragedy Only Makes Jean Grey, aka the Dark Phoenix, Continues to be a fan Favorite](https://yatingw24.github.io/X-men/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/yatingw24.github.io/X-men_index.html-mobile-thumb.jpg)](screenshots/yatingw24.github.io/X-men_index.html-mobile-full.jpg)|[![medium](screenshots/yatingw24.github.io/X-men_index.html-medium-thumb.jpg)](screenshots/yatingw24.github.io/X-men_index.html-medium-full.jpg)|[![wide](screenshots/yatingw24.github.io/X-men_index.html-wide-thumb.jpg)](screenshots/yatingw24.github.io/X-men_index.html-wide-full.jpg)|
 
 
 ### Automatic Checks
 
 **https://yatingw24.github.io/X-men/**
 
-* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
+* Change URL to be all in lowercase
+* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
+    * Image `scrolly-images/simage1.jpg` missing `alt` tag
+* Add a link to your project's GitHub repo, so people can review your code
+* Image: `simage1.jpg`
+    * Image is too big at 5472x3648
+    * Text is too small: on phones, text is as small as 2.2px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+
+#### [Project repository](https://github.com/yatingw24/X-men) issues
+
+* Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
+* Should not include these file(s), please remove:
+    * `.DS_Store`
+* Notebook `X-men_analysis.ipynb` should start with markdown explanation
+* Notebook `X-men_analysis-checkpoint.ipynb` should start with markdown explanation
 * 🤖 [Automatic feedback for copy edits](feedback/yatingw24.github.io/X-men_index.html.md)
 
 
@@ -551,6 +567,7 @@ Quick checks to make sure our pages are looking their best!
     * Text is too small: on phones, text is as small as 2.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://wetv.vip/en/channel/10425?id=10425&type=PAGE_TYPE_MODULE_LIST
 * Dead link found: https://www.linkedin.com/in/kristen-he-shen-85a520214
+* Dead link found: https://www.instagram.com/krishen_river
 
 #### [Project repository](https://github.com/kristen-shen/idol-show) issues
 
