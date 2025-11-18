@@ -359,6 +359,7 @@ Quick checks to make sure our pages are looking their best!
 * Image: `treemap_final-01.svg` Text is too small: on phones, text is as small as 5.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Image: `radial_final.svg` Text is too small: on phones, text is as small as 5.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://www.dhhrm.org/exhibitions/the-book-smugglers/
+* Dead link found: https://pen.org/report/beyond-the-shelves/
 * 🤖 [Automatic feedback for copy edits](feedback/anusha0712.github.io/banned-books_index.html.md)
 
 
@@ -441,6 +442,7 @@ Quick checks to make sure our pages are looking their best!
 
 * README seems to be missing required sections: reflections or future work
 * Notebook `Tinned_Fish.ipynb` should start with markdown explanation
+* Dead link found: https://rainbowtomatoesgarden.com/
 * Could not verify link: Tinned_Fish.ipynb
 * Could not verify link: unit_price.csv
 * 🤖 [Automatic feedback for copy edits](feedback/tiff-xwang.github.io/tinned-fish_index.html.md)
