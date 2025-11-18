@@ -222,6 +222,7 @@ Quick checks to make sure our pages are looking their best!
 * Image: `niche.png`
     * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
     * Text is too small: on phones, text is as small as 4.4px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+* Could not verify link: https://www.olympedia.org/
 
 #### [Project repository](https://github.com/yiren54610/olympic_us) issues
 
@@ -233,6 +234,7 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `Data_scraping-checkpoint.ipynb` should start with markdown explanation
 * Notebook `correlation-checkpoint.ipynb` should start with markdown explanation
 * Dead link found: https://yiren54610.github.io/MVP/olympics.html
+* Could not verify link: https://www.olympedia.org/countries/USA/editions/21
 * 🤖 [Automatic feedback for copy edits](feedback/yiren54610.github.io/olympic_us_index.html.md)
 
 
@@ -294,7 +296,6 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
 * Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-owners-v2
-* Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-renters-v2
 * Could not verify link: https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
