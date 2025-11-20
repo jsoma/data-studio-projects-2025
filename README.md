@@ -10,7 +10,7 @@ Quick checks to make sure our pages are looking their best!
 <td><a href="#rosakettumakigithubio"><img src="screenshots/rosakettumaki.github.io/roller_coaster_story_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>rosakettumaki.github.io</a></td>
 <td><a href="#ashley-yihui-leegithubio"><img src="screenshots/ashley-yihui-lee.github.io/native-income_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>ashley-yihui-lee.github.io</a></td>
 <td><a href="#yiren54610githubio"><img src="screenshots/yiren54610.github.io/olympic_us_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>yiren54610.github.io</a></td>
-<td><a href="#amethystmartgithubio"><img src="screenshots/amethystmart.github.io/my_site_death_penalty.html-medium-thumb.jpg" alt="homepage screenshot"><br>amethystmart.github.io</a></td>
+<td>amethystmart.github.io request failed</td>
 </tr><tr>
 <td><a href="#annikamcginnisgithubio"><img src="screenshots/annikamcginnis.github.io/wildfires-fema_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>annikamcginnis.github.io</a></td>
 <td>rm4063.github.io request failed</td>
@@ -123,6 +123,7 @@ Quick checks to make sure our pages are looking their best!
     * Image is too big at 5328x4000
     * Text is too small: on phones, text is as small as 3.7px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://www.reddit.com/r/FemFragLab/comments/1c6iur3/a_brief_analysis_of_the_most_popular_femfrags_in/
+* Dead link found: https://github.com/gracejiang0612/Olfactory-families
 
 #### [Project repository](https://github.com/gracejiang0612/olfactory-families) issues
 
@@ -242,27 +243,14 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Ebb and Flow: America's Everchanging Views on Capital Punishment](https://amethystmart.github.io/my_site/death_penalty.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/amethystmart.github.io/my_site_death_penalty.html-mobile-thumb.jpg)](screenshots/amethystmart.github.io/my_site_death_penalty.html-mobile-full.jpg)|[![medium](screenshots/amethystmart.github.io/my_site_death_penalty.html-medium-thumb.jpg)](screenshots/amethystmart.github.io/my_site_death_penalty.html-medium-full.jpg)|[![wide](screenshots/amethystmart.github.io/my_site_death_penalty.html-wide-thumb.jpg)](screenshots/amethystmart.github.io/my_site_death_penalty.html-wide-full.jpg)|
+|[Site not found · GitHub Pages](https://amethystmart.github.io/my_site/death_penalty.html)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://amethystmart.github.io/my_site/death_penalty.html**
 
-* All HTML files should be named `index.html`. If this is a personal project, move `my_site/death_penalty.html` into a folder (or repo) called `death_penalty`, then rename the file `index.html`. That way the project can be found at **/death_penalty** instead of **/death_penalty.html**. [Read more about index.html here](https://www.thoughtco.com/index-html-page-3466505) or how it works specifically with GitHub repos [on Fancy GitHub](https://jonathansoma.com/fancy-github/github-pages/#choosing-your-url)
-* Change URL to use `-` instead of spaces or underscores
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Could not verify link: index.html
-
-#### [Project repository](https://github.com/amethystmart/my_site) issues
-
-* README needs link to project page
-* [README](https://jonathansoma.com/fancy-github/readme/) looks short, not enough content
-* README not organized into sections, use [h2/h3 headers](https://www.markdownguide.org/basic-syntax/)
-* README seems to be missing required sections: description, data collection, data analysis, skills, reflections or future work
-* Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
-* No Jupyter notebooks found, please add your analysis.
-* No data files found. Include your raw/processed data or document where it can be accessed
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/amethystmart.github.io/my_site_death_penalty.html.md)
 
 
@@ -295,7 +283,6 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
 * Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-owners-v2
 * Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-renters-v2
-* Could not verify link: https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
 
@@ -469,11 +456,7 @@ Quick checks to make sure our pages are looking their best!
 
 #### [Project repository](https://github.com/yatingw24/X-men) issues
 
-* Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
-* Should not include these file(s), please remove:
-    * `.DS_Store`
-* Notebook `X-men_analysis.ipynb` should start with markdown explanation
-* Notebook `X-men_analysis-checkpoint.ipynb` should start with markdown explanation
+* Failed to download repository: Failed to download repository (status code: 503)
 * 🤖 [Automatic feedback for copy edits](feedback/yatingw24.github.io/X-men_index.html.md)
 
 
@@ -567,10 +550,11 @@ Quick checks to make sure our pages are looking their best!
     * Text is too small: on phones, text is as small as 2.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://wetv.vip/en/channel/10425?id=10425&type=PAGE_TYPE_MODULE_LIST
 * Dead link found: https://www.linkedin.com/in/kristen-he-shen-85a520214
+* Dead link found: https://www.instagram.com/krishen_river
 
 #### [Project repository](https://github.com/kristen-shen/idol-show) issues
 
-* Failed to download repository: Failed to download repository (status code: 404)
+* Failed to download repository: Failed to download repository (status code: 503)
 * 🤖 [Automatic feedback for copy edits](feedback/kristen-shen.github.io/idol-show_index.html.md)
 
 
