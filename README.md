@@ -123,7 +123,6 @@ Quick checks to make sure our pages are looking their best!
     * Image is too big at 5328x4000
     * Text is too small: on phones, text is as small as 3.7px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://www.reddit.com/r/FemFragLab/comments/1c6iur3/a_brief_analysis_of_the_most_popular_femfrags_in/
-* Dead link found: https://github.com/gracejiang0612/Olfactory-families
 
 #### [Project repository](https://github.com/gracejiang0612/olfactory-families) issues
 
@@ -283,6 +282,7 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
 * Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-owners-v2
 * Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-renters-v2
+* Could not verify link: https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
 
@@ -456,7 +456,11 @@ Quick checks to make sure our pages are looking their best!
 
 #### [Project repository](https://github.com/yatingw24/X-men) issues
 
-* Failed to download repository: Failed to download repository (status code: 503)
+* Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
+* Should not include these file(s), please remove:
+    * `.DS_Store`
+* Notebook `X-men_analysis.ipynb` should start with markdown explanation
+* Notebook `X-men_analysis-checkpoint.ipynb` should start with markdown explanation
 * 🤖 [Automatic feedback for copy edits](feedback/yatingw24.github.io/X-men_index.html.md)
 
 
@@ -550,11 +554,10 @@ Quick checks to make sure our pages are looking their best!
     * Text is too small: on phones, text is as small as 2.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://wetv.vip/en/channel/10425?id=10425&type=PAGE_TYPE_MODULE_LIST
 * Dead link found: https://www.linkedin.com/in/kristen-he-shen-85a520214
-* Dead link found: https://www.instagram.com/krishen_river
 
 #### [Project repository](https://github.com/kristen-shen/idol-show) issues
 
-* Failed to download repository: Failed to download repository (status code: 503)
+* Failed to download repository: Failed to download repository (status code: 404)
 * 🤖 [Automatic feedback for copy edits](feedback/kristen-shen.github.io/idol-show_index.html.md)
 
 
