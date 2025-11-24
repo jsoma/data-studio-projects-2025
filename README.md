@@ -81,6 +81,7 @@ Quick checks to make sure our pages are looking their best!
     * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
     * Text is too small: on phones, text is as small as 2.2px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://www.womenon20s.org/campaign
+* Dead link found: https://github.com/somaiyahhafeez/banknotes/
 
 #### [Project repository](https://github.com/somaiyahhafeez/banknotes) issues
 
@@ -92,6 +93,7 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `analysis.ipynb` needs more markdown documentation
 * Notebook `analysis-checkpoint.ipynb` should start with markdown explanation
 * Notebook `analysis-checkpoint.ipynb` needs more markdown documentation
+* Dead link found: https://github.com/the-pudding/banknotes
 * Dead link found: https://en.wikipedia.org/wiki/List_of_people_on_banknotes
 * Dead link found: https://www.banknoteworld.com/banknotes/Banknotes-by-Country/
 * 🤖 [Automatic feedback for copy edits](feedback/somaiyahhafeez.github.io/banknotes_index.html.md)
@@ -222,6 +224,7 @@ Quick checks to make sure our pages are looking their best!
 * Image: `niche.png`
     * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
     * Text is too small: on phones, text is as small as 4.4px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+* Dead link found: https://github.com/yiren54610/olympic_us.git
 
 #### [Project repository](https://github.com/yiren54610/olympic_us) issues
 
@@ -461,6 +464,7 @@ Quick checks to make sure our pages are looking their best!
     * `.DS_Store`
 * Notebook `X-men_analysis.ipynb` should start with markdown explanation
 * Notebook `X-men_analysis-checkpoint.ipynb` should start with markdown explanation
+* Dead link found: https://github.com/EliCash82/mutantmoneyball/tree/main?tab=readme-ov-file
 * 🤖 [Automatic feedback for copy edits](feedback/yatingw24.github.io/X-men_index.html.md)
 
 
@@ -557,7 +561,7 @@ Quick checks to make sure our pages are looking their best!
 
 #### [Project repository](https://github.com/kristen-shen/idol-show) issues
 
-* Failed to download repository: Failed to download repository (status code: 404)
+* Failed to download repository: Failed to download repository (status code: 503)
 * 🤖 [Automatic feedback for copy edits](feedback/kristen-shen.github.io/idol-show_index.html.md)
 
 
