@@ -191,7 +191,6 @@ Quick checks to make sure our pages are looking their best!
 * Image: `ai2html-gender-_1.jpg`
     * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
     * Text is too small: on phones, text is as small as 5.5px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
-* Dead link found: https://indigenousgov.hks.harvard.edu/publications/social-and-economic-change-american-indian-reservations
 
 #### [Project repository](https://github.com/ashley-yihui-lee/native-income) issues
 
@@ -317,6 +316,7 @@ Quick checks to make sure our pages are looking their best!
 **https://cj-robinson.github.io/2024-nyc-evictions/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
+* Dead link found: https://citylimits.org/2024/09/11/good-cause-evictions-legal-litmus-test-begins/
 * Dead link found: https://bsky.app/profile/cj-robinson.bsky.social
 * Dead link found: https://www.linkedin.com/in/christophercjrobinson
 
@@ -428,6 +428,7 @@ Quick checks to make sure our pages are looking their best!
 
 * README seems to be missing required sections: reflections or future work
 * Notebook `Tinned_Fish.ipynb` should start with markdown explanation
+* Dead link found: https://rainbowtomatoesgarden.com/
 * Could not verify link: Tinned_Fish.ipynb
 * Could not verify link: unit_price.csv
 * 🤖 [Automatic feedback for copy edits](feedback/tiff-xwang.github.io/tinned-fish_index.html.md)
