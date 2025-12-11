@@ -92,7 +92,6 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `analysis.ipynb` needs more markdown documentation
 * Notebook `analysis-checkpoint.ipynb` should start with markdown explanation
 * Notebook `analysis-checkpoint.ipynb` needs more markdown documentation
-* Could not verify link: https://github.com/the-pudding/banknotes
 * Dead link found: https://en.wikipedia.org/wiki/List_of_people_on_banknotes
 * Dead link found: https://www.banknoteworld.com/banknotes/Banknotes-by-Country/
 * 🤖 [Automatic feedback for copy edits](feedback/somaiyahhafeez.github.io/banknotes_index.html.md)
@@ -124,7 +123,6 @@ Quick checks to make sure our pages are looking their best!
     * Image is too big at 5328x4000
     * Text is too small: on phones, text is as small as 3.7px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://www.reddit.com/r/FemFragLab/comments/1c6iur3/a_brief_analysis_of_the_most_popular_femfrags_in/
-* Could not verify link: https://github.com/gracejiang0612/Olfactory-families
 
 #### [Project repository](https://github.com/gracejiang0612/olfactory-families) issues
 
@@ -193,7 +191,6 @@ Quick checks to make sure our pages are looking their best!
 * Image: `ai2html-gender-_1.jpg`
     * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
     * Text is too small: on phones, text is as small as 5.5px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
-* Dead link found: https://indigenousgov.hks.harvard.edu/publications/social-and-economic-change-american-indian-reservations
 
 #### [Project repository](https://github.com/ashley-yihui-lee/native-income) issues
 
@@ -283,7 +280,6 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
 * Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-owners-v2
-* Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-renters-v2
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
 
@@ -320,7 +316,6 @@ Quick checks to make sure our pages are looking their best!
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
 * Dead link found: https://bsky.app/profile/cj-robinson.bsky.social
 * Dead link found: https://www.linkedin.com/in/christophercjrobinson
-* Could not verify link: https://github.com/cj-robinson
 
 #### [Project repository](https://github.com/cj-robinson/2024-nyc-evictions) issues
 
@@ -348,6 +343,12 @@ Quick checks to make sure our pages are looking their best!
 * Image: `treemap_final-01.svg` Text is too small: on phones, text is as small as 5.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Image: `radial_final.svg` Text is too small: on phones, text is as small as 5.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://www.dhhrm.org/exhibitions/the-book-smugglers/
+* Could not verify link: https://pen.org/report/beyond-the-shelves/
+* Could not verify link: https://pen.org/report/beyond-the-shelves/
+
+#### [Project repository](https://github.com/anusha0712/banned-books) issues
+
+* Could not verify link: https://pen.org/book-bans/pen-america-index-of-school-book-bans-2023-2024/
 * 🤖 [Automatic feedback for copy edits](feedback/anusha0712.github.io/banned-books_index.html.md)
 
 
@@ -425,6 +426,7 @@ Quick checks to make sure our pages are looking their best!
 * Image: `full.png`
     * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
     * Text is too small: on phones, text is as small as 3.7px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+* Could not verify link: https://github.com/tiff-xwang/Tinned-Fish.git
 
 #### [Project repository](https://github.com/tiff-xwang/tinned-fish) issues
 
