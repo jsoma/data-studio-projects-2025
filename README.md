@@ -280,6 +280,9 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `FEMA Data Analysis.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
+* Could not verify link: https://www.fema.gov/openfema-data-page/fema-web-disaster-declarations-v1
+* Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-owners-v2
+* Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-renters-v2
 * Could not verify link: https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
