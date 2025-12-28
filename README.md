@@ -345,6 +345,10 @@ Quick checks to make sure our pages are looking their best!
 * Image: `treemap_final-01.svg` Text is too small: on phones, text is as small as 5.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Image: `radial_final.svg` Text is too small: on phones, text is as small as 5.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://www.dhhrm.org/exhibitions/the-book-smugglers/
+
+#### [Project repository](https://github.com/anusha0712/banned-books) issues
+
+* Could not verify link: https://docs.google.com/spreadsheets/d/1a6v7R7pidO7TIwRZTIh9T6c0--QNNVufcUUrDcz2GJM/edit?gid=982757372#gid=982757372
 * 🤖 [Automatic feedback for copy edits](feedback/anusha0712.github.io/banned-books_index.html.md)
 
 
@@ -371,7 +375,6 @@ Quick checks to make sure our pages are looking their best!
     * Text is too small: on phones, text is as small as 4.4px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://www.reddit.com/r/ChronicIllness/comments/1gx0sei/struggling_with_two_rare_diseases_and_denied/
 * Dead link found: https://www.reddit.com/r/ChronicIllness/comments/1db8mlc/having_an_orphan_disease_is_so_unfair/
-* Could not verify link: https://chiesirarediseases.com/assets/pdf/chiesiglobalrarediseases.whitepaper-feb.-2022_production-proof.pdf
 * Dead link found: https://pmc.ncbi.nlm.nih.gov/articles/PMC9004040/#_ad93_
 
 #### [Project repository](https://github.com/suiumkanulanbek/project1) issues
