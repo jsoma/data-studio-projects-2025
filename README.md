@@ -267,7 +267,6 @@ Quick checks to make sure our pages are looking their best!
 **https://annikamcginnis.github.io/wildfires-fema/**
 
 * Dead link found: https://annikamcginnis.github.io/portfolio/
-* Could not verify link: https://www.fema.gov/openfema-data-page/fema-web-disaster-declarations-v1
 * Could not verify link: https://www.fema.gov/disaster/historic/coronavirus/governments
 * Dead link found: https://stateline.org/2025/02/06/trump-wants-states-to-handle-disasters-without-fema-they-say-they-cant/
 * Could not verify link: https://www.washingtonpost.com/national-security/2025/02/09/fema-shutdown-noem-trump/
@@ -281,6 +280,7 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
 * Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-owners-v2
+* Could not verify link: https://www.fema.gov/openfema-data-page/housing-assistance-program-data-renters-v2
 * Could not verify link: https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
@@ -371,6 +371,7 @@ Quick checks to make sure our pages are looking their best!
     * Text is too small: on phones, text is as small as 4.4px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://www.reddit.com/r/ChronicIllness/comments/1gx0sei/struggling_with_two_rare_diseases_and_denied/
 * Dead link found: https://www.reddit.com/r/ChronicIllness/comments/1db8mlc/having_an_orphan_disease_is_so_unfair/
+* Could not verify link: https://chiesirarediseases.com/assets/pdf/chiesiglobalrarediseases.whitepaper-feb.-2022_production-proof.pdf
 * Dead link found: https://pmc.ncbi.nlm.nih.gov/articles/PMC9004040/#_ad93_
 
 #### [Project repository](https://github.com/suiumkanulanbek/project1) issues
