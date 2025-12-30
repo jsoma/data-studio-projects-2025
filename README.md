@@ -280,6 +280,7 @@ Quick checks to make sure our pages are looking their best!
 * Notebook `FEMA Data Analysis.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Cleaning.ipynb` needs more markdown documentation
 * Notebook `Billion Dollar Disasters Data Scrape.ipynb` needs more markdown documentation
+* Could not verify link: https://www.fema.gov/openfema-data-page/public-assistance-funded-projects-details-v1
 * 🤖 [Automatic feedback for copy edits](feedback/annikamcginnis.github.io/wildfires-fema_index.html.md)
 
 
@@ -321,6 +322,7 @@ Quick checks to make sure our pages are looking their best!
 
 * README not organized into sections, use [h2/h3 headers](https://www.markdownguide.org/basic-syntax/)
 * README seems to be missing required sections: reflections or future work
+* Could not verify link: https://data.cityofnewyork.us/City-Government/Evictions/6z8x-wfk4/about_data
 * 🤖 [Automatic feedback for copy edits](feedback/cj-robinson.github.io/2024-nyc-evictions_index.html.md)
 
 
