@@ -19,12 +19,12 @@ Quick checks to make sure our pages are looking their best!
 </tr><tr>
 <td><a href="#suiumkanulanbekgithubio"><img src="screenshots/suiumkanulanbek.github.io/project1_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>suiumkanulanbek.github.io</a></td>
 <td><a href="#chilinhhovogithubio"><img src="screenshots/chilinhhovo.github.io/Mercury_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>chilinhhovo.github.io</a></td>
-<td><a href="#tiff-xwanggithubio"><img src="screenshots/tiff-xwang.github.io/tinned-fish_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>tiff-xwang.github.io</a></td>
-<td><a href="#yatingw24githubio"><img src="screenshots/yatingw24.github.io/X-men_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>yatingw24.github.io</a></td>
+<td>tiff-xwang.github.io request failed</td>
+<td>yatingw24.github.io request failed</td>
 </tr><tr>
 <td><a href="#shuoshuobargithubio"><img src="screenshots/shuoshuobar.github.io/Low-Food-Access-Across-Race_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>shuoshuobar.github.io</a></td>
 <td>jcw2245.github.io request failed</td>
-<td><a href="#kristen-shengithubio"><img src="screenshots/kristen-shen.github.io/idol-show_index.html-medium-thumb.jpg" alt="homepage screenshot"><br>kristen-shen.github.io</a></td>
+<td>kristen-shen.github.io request failed</td>
 <td>ananyabchetia.github.io request failed</td>
 </tr><tr>
 </tr></table>
@@ -268,8 +268,7 @@ Quick checks to make sure our pages are looking their best!
 
 * Dead link found: https://annikamcginnis.github.io/portfolio/
 * Could not verify link: https://www.fema.gov/openfema-data-page/fema-web-disaster-declarations-v1
-* Could not verify link: https://www.fema.gov/disaster/historic/coronavirus/governments
-* Could not verify link: https://stateline.org/2025/02/06/trump-wants-states-to-handle-disasters-without-fema-they-say-they-cant/
+* Dead link found: https://stateline.org/2025/02/06/trump-wants-states-to-handle-disasters-without-fema-they-say-they-cant/
 * Could not verify link: https://www.washingtonpost.com/national-security/2025/02/09/fema-shutdown-noem-trump/
 * Could not verify link: https://www.washingtonpost.com/climate-environment/2025/02/07/musk-trump-fema-doge/
 
@@ -317,7 +316,6 @@ Quick checks to make sure our pages are looking their best!
 **https://cj-robinson.github.io/2024-nyc-evictions/**
 
 * Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Could not verify link: https://citylimits.org/2024/09/11/good-cause-evictions-legal-litmus-test-begins/
 * Dead link found: https://bsky.app/profile/cj-robinson.bsky.social
 * Dead link found: https://www.linkedin.com/in/christophercjrobinson
 
@@ -409,29 +407,14 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Tinned Fish](https://tiff-xwang.github.io/tinned-fish/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/tiff-xwang.github.io/tinned-fish_index.html-mobile-thumb.jpg)](screenshots/tiff-xwang.github.io/tinned-fish_index.html-mobile-full.jpg)|[![medium](screenshots/tiff-xwang.github.io/tinned-fish_index.html-medium-thumb.jpg)](screenshots/tiff-xwang.github.io/tinned-fish_index.html-medium-full.jpg)|[![wide](screenshots/tiff-xwang.github.io/tinned-fish_index.html-wide-thumb.jpg)](screenshots/tiff-xwang.github.io/tinned-fish_index.html-wide-full.jpg)|
+|[REQUEST FAILED](https://tiff-xwang.github.io/tinned-fish/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://tiff-xwang.github.io/tinned-fish/**
 
-* Missing viewport meta tag in `<head>`, needed to tell browser it's responsive. Add `<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">`
-* Has sideways scrollbars in mobile version – check padding, margins, image widths
-* Image: `full.png`
-    * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
-    * Text is too small: on phones, text is as small as 3.7px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
-* Image: `full.png`
-    * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
-    * Text is too small: on phones, text is as small as 3.7px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
-
-#### [Project repository](https://github.com/tiff-xwang/tinned-fish) issues
-
-* README seems to be missing required sections: reflections or future work
-* Notebook `Tinned_Fish.ipynb` should start with markdown explanation
-* Could not verify link: https://rainbowtomatoesgarden.com/
-* Could not verify link: Tinned_Fish.ipynb
-* Could not verify link: unit_price.csv
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/tiff-xwang.github.io/tinned-fish_index.html.md)
 
 
@@ -441,28 +424,14 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Phoenix From the Ashes: The Tragedy Only Makes Jean Grey, aka the Dark Phoenix, Continues to be a fan Favorite](https://yatingw24.github.io/X-men/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/yatingw24.github.io/X-men_index.html-mobile-thumb.jpg)](screenshots/yatingw24.github.io/X-men_index.html-mobile-full.jpg)|[![medium](screenshots/yatingw24.github.io/X-men_index.html-medium-thumb.jpg)](screenshots/yatingw24.github.io/X-men_index.html-medium-full.jpg)|[![wide](screenshots/yatingw24.github.io/X-men_index.html-wide-thumb.jpg)](screenshots/yatingw24.github.io/X-men_index.html-wide-full.jpg)|
+|[REQUEST FAILED](https://yatingw24.github.io/X-men/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://yatingw24.github.io/X-men/**
 
-* Change URL to be all in lowercase
-* Image(s) need `alt` tags, [info here](https://abilitynet.org.uk/news-blogs/five-golden-rules-compliant-alt-text) and [tips here](https://twitter.com/FrankElavsky/status/1469023374529765385)
-    * Image `scrolly-images/simage1.jpg` missing `alt` tag
-* Add a link to your project's GitHub repo, so people can review your code
-* Image: `simage1.jpg`
-    * Image is too big at 5472x3648
-    * Text is too small: on phones, text is as small as 2.2px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
-
-#### [Project repository](https://github.com/yatingw24/X-men) issues
-
-* Missing [`.gitignore`](https://jonathansoma.com/fancy-github/organization/gitignore.html) file
-* Should not include these file(s), please remove:
-    * `.DS_Store`
-* Notebook `X-men_analysis.ipynb` should start with markdown explanation
-* Notebook `X-men_analysis-checkpoint.ipynb` should start with markdown explanation
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/yatingw24.github.io/X-men_index.html.md)
 
 
@@ -544,22 +513,14 @@ Quick checks to make sure our pages are looking their best!
 
 |url|mobile|medium|wide|
 |---|---|---|---|
-|[Idol Survival Show](https://kristen-shen.github.io/idol-show/)<br>:x: og:title<br>:x: og:description<br>:x: og:image<br>[how to fix](https://jonathansoma.com/everything/web/social-tags/)|[![mobile](screenshots/kristen-shen.github.io/idol-show_index.html-mobile-thumb.jpg)](screenshots/kristen-shen.github.io/idol-show_index.html-mobile-full.jpg)|[![medium](screenshots/kristen-shen.github.io/idol-show_index.html-medium-thumb.jpg)](screenshots/kristen-shen.github.io/idol-show_index.html-medium-full.jpg)|[![wide](screenshots/kristen-shen.github.io/idol-show_index.html-wide-thumb.jpg)](screenshots/kristen-shen.github.io/idol-show_index.html-wide-full.jpg)|
+|[REQUEST FAILED](https://kristen-shen.github.io/idol-show/)|request failed|request failed|request failed|
 
 
 ### Automatic Checks
 
 **https://kristen-shen.github.io/idol-show/**
 
-* Image: `logos.png`
-    * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
-    * Text is too small: on phones, text is as small as 2.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
-* Dead link found: https://wetv.vip/en/channel/10425?id=10425&type=PAGE_TYPE_MODULE_LIST
-* Dead link found: https://www.linkedin.com/in/kristen-he-shen-85a520214
-
-#### [Project repository](https://github.com/kristen-shen/idol-show) issues
-
-* Failed to download repository: Failed to download repository (status code: 404)
+* **Could not access the page** - if you moved it, [let me know](https://github.com/jsoma/data-studio-projects-2024/issues/new/choose)!
 * 🤖 [Automatic feedback for copy edits](feedback/kristen-shen.github.io/idol-show_index.html.md)
 
 
