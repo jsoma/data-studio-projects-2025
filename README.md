@@ -191,6 +191,7 @@ Quick checks to make sure our pages are looking their best!
 * Image: `ai2html-gender-_1.jpg`
     * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
     * Text is too small: on phones, text is as small as 5.5px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+* Dead link found: https://indigenousgov.hks.harvard.edu/publications/social-and-economic-change-american-indian-reservations
 
 #### [Project repository](https://github.com/ashley-yihui-lee/native-income) issues
 
@@ -422,6 +423,7 @@ Quick checks to make sure our pages are looking their best!
 * Image: `full.png`
     * Image has text, should use [ai2html](https://www.youtube.com/playlist?list=PLewNEVDy7gq3MSrrO3eMEW8PhGMEVh2X2) for accessibility
     * Text is too small: on phones, text is as small as 3.7px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
+* Could not verify link: https://www.factmr.com/report/tinned-fish-market
 
 #### [Project repository](https://github.com/tiff-xwang/tinned-fish) issues
 
@@ -553,6 +555,7 @@ Quick checks to make sure our pages are looking their best!
     * Text is too small: on phones, text is as small as 2.9px. Minimum is 12px, more [here](https://service-manual.ons.gov.uk/data-visualisation/build-specifications/typography) and [here](https://nightingaledvs.com/choosing-fonts-for-your-data-visualization/)
 * Dead link found: https://wetv.vip/en/channel/10425?id=10425&type=PAGE_TYPE_MODULE_LIST
 * Dead link found: https://www.linkedin.com/in/kristen-he-shen-85a520214
+* Dead link found: https://www.instagram.com/krishen_river
 
 #### [Project repository](https://github.com/kristen-shen/idol-show) issues
 
